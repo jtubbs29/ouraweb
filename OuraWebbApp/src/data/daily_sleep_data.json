@@ -1,0 +1,5420 @@
+{
+  "data": [
+    {
+      "id": "7e734fbf-eacd-467b-9b98-61b9da09aada",
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 86,
+        "latency": 78,
+        "rem_sleep": 75,
+        "restfulness": 60,
+        "timing": 93,
+        "total_sleep": 77
+      },
+      "day": "2024-01-03",
+      "score": 78,
+      "timestamp": "2024-01-03T00:00:00+00:00"
+    },
+    {
+      "id": "d1507473-3f8c-4b80-98af-39c83d03459b",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 94
+      },
+      "day": "2024-01-04",
+      "score": 90,
+      "timestamp": "2024-01-04T00:00:00+00:00"
+    },
+    {
+      "id": "fd3e2625-047f-4f0f-9d07-3951c6e47217",
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 80,
+        "restfulness": 62,
+        "timing": 73,
+        "total_sleep": 83
+      },
+      "day": "2024-01-05",
+      "score": 80,
+      "timestamp": "2024-01-05T00:00:00+00:00"
+    },
+    {
+      "id": "b824514a-148c-4bd0-92da-53606961a1aa",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 83,
+        "latency": 72,
+        "rem_sleep": 82,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-01-07",
+      "score": 82,
+      "timestamp": "2024-01-07T00:00:00+00:00"
+    },
+    {
+      "id": "1eb0a685-25dc-4a02-8b89-c73ce61e2a0e",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 51,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-01-08",
+      "score": 79,
+      "timestamp": "2024-01-08T00:00:00+00:00"
+    },
+    {
+      "id": "3c738e82-7dfa-4eb9-8e83-d32b165b5885",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 73,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2024-01-09",
+      "score": 81,
+      "timestamp": "2024-01-09T00:00:00+00:00"
+    },
+    {
+      "id": "2630f8a9-37d4-4008-a454-db2125f9d52a",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 88,
+        "latency": 59,
+        "rem_sleep": 81,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2024-01-10",
+      "score": 75,
+      "timestamp": "2024-01-10T00:00:00+00:00"
+    },
+    {
+      "id": "b6660348-b90c-4cd6-b7ab-d00274560ab6",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 80,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-01-11",
+      "score": 80,
+      "timestamp": "2024-01-11T00:00:00+00:00"
+    },
+    {
+      "id": "254062e7-e5ca-4440-8834-a8ff9f9faa45",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 78,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-01-12",
+      "score": 80,
+      "timestamp": "2024-01-12T00:00:00+00:00"
+    },
+    {
+      "id": "bb5b9f27-351d-48a7-8d59-6bb9110fa083",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 83,
+        "latency": 54,
+        "rem_sleep": 93,
+        "restfulness": 52,
+        "timing": 96,
+        "total_sleep": 97
+      },
+      "day": "2024-01-14",
+      "score": 82,
+      "timestamp": "2024-01-14T00:00:00+00:00"
+    },
+    {
+      "id": "d9833b16-c5c2-49a7-bb3f-7540cdb1a4c3",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-01-15",
+      "score": 84,
+      "timestamp": "2024-01-14T19:00:00-05:00"
+    },
+    {
+      "id": "594f11ad-b7f2-409e-b802-0a7b9bf4a358",
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 75,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-01-16",
+      "score": 78,
+      "timestamp": "2024-01-16T00:00:00+00:00"
+    },
+    {
+      "id": "16197c93-8574-4897-ac66-7ffb2683a245",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 98,
+        "latency": 67,
+        "rem_sleep": 84,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-01-17",
+      "score": 77,
+      "timestamp": "2024-01-17T00:00:00+00:00"
+    },
+    {
+      "id": "b1c2934c-9022-4142-ad60-f887f3b13b31",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 90,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-01-18",
+      "score": 85,
+      "timestamp": "2024-01-17T19:00:00-05:00"
+    },
+    {
+      "id": "2b462ece-4ccc-4127-ab02-c6deed290cd8",
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 90,
+        "latency": 83,
+        "rem_sleep": 65,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-01-19",
+      "score": 78,
+      "timestamp": "2024-01-19T00:00:00+00:00"
+    },
+    {
+      "id": "37c6cebb-b231-4383-8687-6dc65d5d52c0",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 99,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 82,
+        "timing": 61,
+        "total_sleep": 88
+      },
+      "day": "2024-01-20",
+      "score": 87,
+      "timestamp": "2024-01-20T00:00:00+00:00"
+    },
+    {
+      "id": "69d70840-a754-4e8c-b3a9-85aed9dde3f0",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 77,
+        "timing": 91,
+        "total_sleep": 100
+      },
+      "day": "2024-01-21",
+      "score": 94,
+      "timestamp": "2024-01-21T00:00:00+00:00"
+    },
+    {
+      "id": "9d64a3cf-f5ae-4577-ac48-d96db296cb8f",
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 68,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2024-01-22",
+      "score": 73,
+      "timestamp": "2024-01-22T00:00:00+00:00"
+    },
+    {
+      "id": "465657f6-ec6e-47f4-9d96-132a5b438add",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 82,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 58
+      },
+      "day": "2024-01-23",
+      "score": 76,
+      "timestamp": "2024-01-23T00:00:00+00:00"
+    },
+    {
+      "id": "94a49912-0419-414e-a415-3df087c7527f",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 69,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-01-24",
+      "score": 76,
+      "timestamp": "2024-01-24T00:00:00+00:00"
+    },
+    {
+      "id": "aa5579c5-e359-476f-83ca-aff9de173dfe",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2024-01-25",
+      "score": 91,
+      "timestamp": "2024-01-25T00:00:00+00:00"
+    },
+    {
+      "id": "650f2df9-c5cf-4a2e-be1b-3e23243c69aa",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 71,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-01-26",
+      "score": 77,
+      "timestamp": "2024-01-26T00:00:00+00:00"
+    },
+    {
+      "id": "6c93ef26-5d6c-444b-9db6-300bdc8b5239",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 84,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2024-01-27",
+      "score": 78,
+      "timestamp": "2024-01-27T00:00:00+00:00"
+    },
+    {
+      "id": "395ca472-5749-4b59-bb41-3e401e710e75",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 72,
+        "timing": 95,
+        "total_sleep": 98
+      },
+      "day": "2024-01-28",
+      "score": 91,
+      "timestamp": "2024-01-28T00:00:00+00:00"
+    },
+    {
+      "id": "1f1539df-7df1-4a4a-8b39-78d80b5f1f21",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 91,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-01-29",
+      "score": 83,
+      "timestamp": "2024-01-29T00:00:00+00:00"
+    },
+    {
+      "id": "10f481cc-4568-4f51-9ea3-4d9ee635a862",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 78,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-01-30",
+      "score": 81,
+      "timestamp": "2024-01-30T00:00:00+00:00"
+    },
+    {
+      "id": "e10ee44a-9aaa-47cf-9234-3109e3e689a8",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2024-01-31",
+      "score": 90,
+      "timestamp": "2024-01-31T00:00:00+00:00"
+    },
+    {
+      "id": "4d95cc9f-906c-495d-bb75-b1e345477145",
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 61,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 45
+      },
+      "day": "2024-02-01",
+      "score": 68,
+      "timestamp": "2024-02-01T00:00:00+00:00"
+    },
+    {
+      "id": "8cc28ac8-9966-408e-a977-cf65ce378812",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 96,
+        "latency": 62,
+        "rem_sleep": 72,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-02-02",
+      "score": 74,
+      "timestamp": "2024-02-02T00:00:00+00:00"
+    },
+    {
+      "id": "fa92c2d8-436c-4080-9913-1c5e6b130c93",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 83,
+        "timing": 82,
+        "total_sleep": 70
+      },
+      "day": "2024-02-03",
+      "score": 81,
+      "timestamp": "2024-02-03T00:00:00+00:00"
+    },
+    {
+      "id": "a577acf7-5838-46e9-8331-6e750960c281",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 83,
+        "latency": 64,
+        "rem_sleep": 90,
+        "restfulness": 86,
+        "timing": 84,
+        "total_sleep": 79
+      },
+      "day": "2024-02-04",
+      "score": 82,
+      "timestamp": "2024-02-04T00:00:00+00:00"
+    },
+    {
+      "id": "a81c893b-b550-47b6-b660-e32c1ac396ee",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 80,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2024-02-05",
+      "score": 79,
+      "timestamp": "2024-02-04T19:00:00-05:00"
+    },
+    {
+      "id": "2a93f4e0-83e7-4005-aeee-23304cbd6f39",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 83,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-02-06",
+      "score": 83,
+      "timestamp": "2024-02-06T00:00:00+00:00"
+    },
+    {
+      "id": "38372578-53af-41f6-9ecf-cc9c634977a6",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 45,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 52
+      },
+      "day": "2024-02-07",
+      "score": 71,
+      "timestamp": "2024-02-07T00:00:00+00:00"
+    },
+    {
+      "id": "35d7b3e4-75fa-42ee-8cfe-229df87ff94c",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 99,
+        "latency": 94,
+        "rem_sleep": 97,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2024-02-08",
+      "score": 89,
+      "timestamp": "2024-02-08T00:00:00+00:00"
+    },
+    {
+      "id": "76465afd-72a1-4954-9133-b93c56fdc75d",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 83,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2024-02-09",
+      "score": 82,
+      "timestamp": "2024-02-09T00:00:00+00:00"
+    },
+    {
+      "id": "8cf9cb24-dc5b-4d1f-a680-73af04fcea39",
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 93,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2024-02-10",
+      "score": 87,
+      "timestamp": "2024-02-10T00:00:00+00:00"
+    },
+    {
+      "id": "84f427e7-f255-4b70-bd9b-a2cd1e30b568",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 99
+      },
+      "day": "2024-02-11",
+      "score": 91,
+      "timestamp": "2024-02-11T00:00:00+00:00"
+    },
+    {
+      "id": "b3969810-518d-4aa8-9988-110e63f7f009",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-02-12",
+      "score": 83,
+      "timestamp": "2024-02-12T00:00:00+00:00"
+    },
+    {
+      "id": "56993355-999e-4f40-aebd-d82e77b72454",
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 100,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-02-13",
+      "score": 85,
+      "timestamp": "2024-02-13T00:00:00+00:00"
+    },
+    {
+      "id": "be9c18b7-e75d-439f-8ece-af1ab34c4a74",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 99,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-02-14",
+      "score": 89,
+      "timestamp": "2024-02-14T00:00:00+00:00"
+    },
+    {
+      "id": "25464678-4729-44eb-866e-2fca11aa712e",
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 78,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-02-15",
+      "score": 78,
+      "timestamp": "2024-02-15T00:00:00+00:00"
+    },
+    {
+      "id": "8c8283ab-4b28-4262-9e1b-51f32845e3f2",
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 90,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2024-02-16",
+      "score": 83,
+      "timestamp": "2024-02-16T00:00:00+00:00"
+    },
+    {
+      "id": "0b6c9a28-af99-4143-9d5b-4334717f09eb",
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 70,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-02-17",
+      "score": 76,
+      "timestamp": "2024-02-17T00:00:00+00:00"
+    },
+    {
+      "id": "390765a9-3fa4-4918-9ba8-973bbd9ab7f3",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 99,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-02-18",
+      "score": 82,
+      "timestamp": "2024-02-18T00:00:00+00:00"
+    },
+    {
+      "id": "6cc55cda-cb9b-40b0-90db-c7e82a4e4d0b",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 76,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-02-19",
+      "score": 73,
+      "timestamp": "2024-02-19T00:00:00+00:00"
+    },
+    {
+      "id": "a7690034-bbba-4a53-9b68-6c3f7aad6a11",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 100,
+        "latency": 81,
+        "rem_sleep": 87,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-02-20",
+      "score": 84,
+      "timestamp": "2024-02-20T00:00:00+00:00"
+    },
+    {
+      "id": "e30dffa0-83da-437e-a02f-0f116549745b",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 71,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-02-21",
+      "score": 78,
+      "timestamp": "2024-02-20T18:00:00-06:00"
+    },
+    {
+      "id": "7f543f72-b143-4dc2-9491-376582fad921",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 96,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2024-02-22",
+      "score": 84,
+      "timestamp": "2024-02-22T00:00:00+00:00"
+    },
+    {
+      "id": "5bd5e589-d51a-40bf-b162-b169b2c6b505",
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 98,
+        "latency": 70,
+        "rem_sleep": 84,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2024-02-23",
+      "score": 80,
+      "timestamp": "2024-02-23T00:00:00+00:00"
+    },
+    {
+      "id": "d7ebb2e5-9895-4277-af71-1647f867ca3e",
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 53,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 52
+      },
+      "day": "2024-02-24",
+      "score": 68,
+      "timestamp": "2024-02-24T00:00:00+00:00"
+    },
+    {
+      "id": "f49a6994-5acd-4770-9e38-cdde10fc759b",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 69,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-02-25",
+      "score": 78,
+      "timestamp": "2024-02-25T00:00:00+00:00"
+    },
+    {
+      "id": "c8ba4e76-a1e3-4998-87db-0775b1cf0e38",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 74,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-02-26",
+      "score": 78,
+      "timestamp": "2024-02-26T00:00:00+00:00"
+    },
+    {
+      "id": "1e18acb4-93e6-4858-bce6-143d29899ee1",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-02-27",
+      "score": 80,
+      "timestamp": "2024-02-27T00:00:00+00:00"
+    },
+    {
+      "id": "ef99e986-16ce-4e3d-9d0d-9913fa2ca0bc",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 99,
+        "rem_sleep": 97,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-02-28",
+      "score": 87,
+      "timestamp": "2024-02-27T18:00:00-06:00"
+    },
+    {
+      "id": "2fa062e4-b0d0-4046-b349-6f6a5608a5b0",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 75,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-02-29",
+      "score": 80,
+      "timestamp": "2024-02-29T00:00:00+00:00"
+    },
+    {
+      "id": "f21b4d3c-9ee4-40f7-a3d3-d4b40adaffa0",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-03-01",
+      "score": 90,
+      "timestamp": "2024-03-01T00:00:00+00:00"
+    },
+    {
+      "id": "aa189e70-d6e0-4f77-8f38-3f6cbeab6d85",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 98,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2024-03-02",
+      "score": 88,
+      "timestamp": "2024-03-02T00:00:00+00:00"
+    },
+    {
+      "id": "0730340e-f009-4bdd-a96c-7efe9738ee5d",
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 93,
+        "latency": 91,
+        "rem_sleep": 86,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2024-03-03",
+      "score": 78,
+      "timestamp": "2024-03-03T00:00:00+00:00"
+    },
+    {
+      "id": "6382d614-0774-407c-aeaf-8375c403d737",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 95,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-03-04",
+      "score": 84,
+      "timestamp": "2024-03-04T00:00:00+00:00"
+    },
+    {
+      "id": "8670d609-3319-4e0e-803f-66a7b91e4e5c",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 99,
+        "latency": 97,
+        "rem_sleep": 85,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-03-05",
+      "score": 85,
+      "timestamp": "2024-03-05T00:00:00+00:00"
+    },
+    {
+      "id": "e295ae97-dd7b-45f4-9908-597519115906",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 92,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 57
+      },
+      "day": "2024-03-06",
+      "score": 77,
+      "timestamp": "2024-03-06T00:00:00+00:00"
+    },
+    {
+      "id": "d03d9f96-23a9-4fd3-9b19-8e85e6772fa4",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2024-03-07",
+      "score": 77,
+      "timestamp": "2024-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "91a62c53-ca54-435d-bc34-380f5ac97f59",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 99,
+        "latency": 67,
+        "rem_sleep": 86,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2024-03-08",
+      "score": 82,
+      "timestamp": "2024-03-08T00:00:00+00:00"
+    },
+    {
+      "id": "11bd965d-7095-478b-bf56-ebaf1c350174",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2024-03-09",
+      "score": 89,
+      "timestamp": "2024-03-09T00:00:00+00:00"
+    },
+    {
+      "id": "7fa592f9-583d-4724-87b2-dcf1183dce07",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 98,
+        "latency": 89,
+        "rem_sleep": 59,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 47
+      },
+      "day": "2024-03-10",
+      "score": 73,
+      "timestamp": "2024-03-10T00:00:00+00:00"
+    },
+    {
+      "id": "c80239bb-aad0-4547-87af-e15cd015e595",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-03-11",
+      "score": 84,
+      "timestamp": "2024-03-11T00:00:00+00:00"
+    },
+    {
+      "id": "eb469842-da78-4dd8-8245-4d082a0ade25",
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 93,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 55
+      },
+      "day": "2024-03-12",
+      "score": 76,
+      "timestamp": "2024-03-12T00:00:00+00:00"
+    },
+    {
+      "id": "0e6750ce-e589-420f-b668-0ec4ed4227dc",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 89,
+        "restfulness": 89,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-03-13",
+      "score": 83,
+      "timestamp": "2024-03-13T00:00:00+00:00"
+    },
+    {
+      "id": "db63970c-ce9a-40f8-8ee2-fdadf96a33b9",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 83,
+        "rem_sleep": 63,
+        "restfulness": 89,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2024-03-14",
+      "score": 78,
+      "timestamp": "2024-03-14T00:00:00+00:00"
+    },
+    {
+      "id": "0205f6c5-5187-4f3f-9099-05c330fdeb5d",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 89,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2024-03-15",
+      "score": 84,
+      "timestamp": "2024-03-15T00:00:00+00:00"
+    },
+    {
+      "id": "176e3441-f9b2-4f16-bd7f-fd3e8b1e7f7e",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 99,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2024-03-16",
+      "score": 93,
+      "timestamp": "2024-03-16T00:00:00+00:00"
+    },
+    {
+      "id": "546e8180-39db-4501-9667-a0d77d70b8ec",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2024-03-17",
+      "score": 89,
+      "timestamp": "2024-03-17T00:00:00+00:00"
+    },
+    {
+      "id": "2552788a-a198-437c-9c9f-6ec4869d5dcb",
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 88,
+        "latency": 70,
+        "rem_sleep": 67,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 55
+      },
+      "day": "2024-03-18",
+      "score": 69,
+      "timestamp": "2024-03-18T00:00:00+00:00"
+    },
+    {
+      "id": "5b04c3e5-9804-4a56-ab08-cf246f04d44a",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 78,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 57
+      },
+      "day": "2024-03-19",
+      "score": 76,
+      "timestamp": "2024-03-19T00:00:00+00:00"
+    },
+    {
+      "id": "dd410943-17fa-489b-ab8d-875d5033e1d0",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-03-20",
+      "score": 83,
+      "timestamp": "2024-03-20T00:00:00+00:00"
+    },
+    {
+      "id": "6d9ac4d2-5439-45d1-b90c-69215a90412e",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 49,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 38
+      },
+      "day": "2024-03-21",
+      "score": 69,
+      "timestamp": "2024-03-21T00:00:00+00:00"
+    },
+    {
+      "id": "4d01186c-e294-4c3f-bb24-06ead803a7d0",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-03-22",
+      "score": 83,
+      "timestamp": "2024-03-22T00:00:00+00:00"
+    },
+    {
+      "id": "783e128d-09b2-4650-a7cb-1d4a0f02209f",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 98,
+        "latency": 94,
+        "rem_sleep": 71,
+        "restfulness": 89,
+        "timing": 100,
+        "total_sleep": 57
+      },
+      "day": "2024-03-23",
+      "score": 79,
+      "timestamp": "2024-03-23T00:00:00+00:00"
+    },
+    {
+      "id": "ad989fc6-81fd-46f0-99be-9c959bb16e3d",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 93,
+        "latency": 91,
+        "rem_sleep": 56,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 57
+      },
+      "day": "2024-03-24",
+      "score": 76,
+      "timestamp": "2024-03-24T00:00:00+00:00"
+    },
+    {
+      "id": "6751d5d5-2687-4e2f-9c6f-0c6c92a9263a",
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 99,
+        "latency": 72,
+        "rem_sleep": 73,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2024-03-25",
+      "score": 73,
+      "timestamp": "2024-03-25T00:00:00+00:00"
+    },
+    {
+      "id": "6e485874-48f3-4a60-afdc-eeb30c975db7",
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 37,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 34
+      },
+      "day": "2024-03-26",
+      "score": 61,
+      "timestamp": "2024-03-26T00:00:00+00:00"
+    },
+    {
+      "id": "2e01b361-8cd2-4a41-aeff-fb7231efa8ea",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 99,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2024-03-27",
+      "score": 86,
+      "timestamp": "2024-03-27T00:00:00+00:00"
+    },
+    {
+      "id": "b5de4e12-ca90-4472-a094-2dd04d411ab6",
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 90,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-03-29",
+      "score": 81,
+      "timestamp": "2024-03-29T00:00:00+00:00"
+    },
+    {
+      "id": "afdabfdd-8d73-4180-b666-7d6e1e172c74",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 61,
+        "restfulness": 91,
+        "timing": 100,
+        "total_sleep": 50
+      },
+      "day": "2024-03-30",
+      "score": 73,
+      "timestamp": "2024-03-30T00:00:00+00:00"
+    },
+    {
+      "id": "cbcebb94-6029-45b0-afce-8475b56e5ded",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 100,
+        "latency": 81,
+        "rem_sleep": 81,
+        "restfulness": 99,
+        "timing": 100,
+        "total_sleep": 59
+      },
+      "day": "2024-03-31",
+      "score": 80,
+      "timestamp": "2024-03-31T00:00:00+00:00"
+    },
+    {
+      "id": "ab88ef90-1c2f-445d-875d-becc2042569f",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 95,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-04-01",
+      "score": 81,
+      "timestamp": "2024-04-01T00:00:00+00:00"
+    },
+    {
+      "id": "0e1685b6-4b62-4e3d-ba44-2b9b66f1f14c",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2024-04-02",
+      "score": 85,
+      "timestamp": "2024-04-02T00:00:00+00:00"
+    },
+    {
+      "id": "9254109b-a5fb-4ce2-9d24-7902c4576541",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 100,
+        "latency": 72,
+        "rem_sleep": 92,
+        "restfulness": 92,
+        "timing": 54,
+        "total_sleep": 50
+      },
+      "day": "2024-04-03",
+      "score": 72,
+      "timestamp": "2024-04-03T00:00:00+00:00"
+    },
+    {
+      "id": "954d9cbe-f355-4e92-a3a2-aee3bfe7f5bb",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 89,
+        "restfulness": 90,
+        "timing": 81,
+        "total_sleep": 63
+      },
+      "day": "2024-04-04",
+      "score": 80,
+      "timestamp": "2024-04-04T00:00:00+00:00"
+    },
+    {
+      "id": "b37f5503-eb70-4fd1-af9e-c0087e915bbb",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 98,
+        "latency": 64,
+        "rem_sleep": 99,
+        "restfulness": 66,
+        "timing": 55,
+        "total_sleep": 99
+      },
+      "day": "2024-04-05",
+      "score": 86,
+      "timestamp": "2024-04-05T00:00:00+00:00"
+    },
+    {
+      "id": "1f67eb82-e091-4658-b037-fb19eccddf27",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 60,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 44
+      },
+      "day": "2024-04-07",
+      "score": 73,
+      "timestamp": "2024-04-07T00:00:00+00:00"
+    },
+    {
+      "id": "b5f18c58-0520-4439-9ef4-01ab2bfaa402",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 67,
+        "rem_sleep": 95,
+        "restfulness": 76,
+        "timing": 84,
+        "total_sleep": 82
+      },
+      "day": "2024-04-08",
+      "score": 84,
+      "timestamp": "2024-04-08T00:00:00+00:00"
+    },
+    {
+      "id": "bc05fa0b-8990-457b-9efd-b23017a1bce3",
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 77,
+        "timing": 91,
+        "total_sleep": 75
+      },
+      "day": "2024-04-09",
+      "score": 80,
+      "timestamp": "2024-04-09T00:00:00+00:00"
+    },
+    {
+      "id": "3cf9c463-13bd-442c-ab8a-bac45727bbfa",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 96,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 84,
+        "timing": 86,
+        "total_sleep": 78
+      },
+      "day": "2024-04-10",
+      "score": 84,
+      "timestamp": "2024-04-10T00:00:00+00:00"
+    },
+    {
+      "id": "54e01d70-defa-4b7f-a154-e067f95a913f",
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 90,
+        "restfulness": 86,
+        "timing": 31,
+        "total_sleep": 85
+      },
+      "day": "2024-04-11",
+      "score": 80,
+      "timestamp": "2024-04-11T00:00:00+00:00"
+    },
+    {
+      "id": "41b5a597-d0c8-45eb-8470-bbf69e50c65b",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 99,
+        "latency": 97,
+        "rem_sleep": 83,
+        "restfulness": 89,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-04-12",
+      "score": 85,
+      "timestamp": "2024-04-12T00:00:00+00:00"
+    },
+    {
+      "id": "5ee046c0-a806-49b4-bbdb-1790cc374e6a",
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 64,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 50
+      },
+      "day": "2024-04-13",
+      "score": 72,
+      "timestamp": "2024-04-13T00:00:00+00:00"
+    },
+    {
+      "id": "0a94ca21-5899-4d50-b5ab-6c9081cf65e4",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 78,
+        "restfulness": 89,
+        "timing": 98,
+        "total_sleep": 55
+      },
+      "day": "2024-04-14",
+      "score": 76,
+      "timestamp": "2024-04-14T00:00:00+00:00"
+    },
+    {
+      "id": "e9a63968-47e8-4a3d-ac42-2479644a270e",
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 70,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-04-15",
+      "score": 79,
+      "timestamp": "2024-04-15T00:00:00+00:00"
+    },
+    {
+      "id": "2650e6c8-c4d0-4551-86ae-fb406bb03a71",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 86,
+        "restfulness": 95,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-04-16",
+      "score": 88,
+      "timestamp": "2024-04-16T00:00:00+00:00"
+    },
+    {
+      "id": "4eb9b47a-2419-461e-b525-b3c681311f3e",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 93,
+        "latency": 75,
+        "rem_sleep": 81,
+        "restfulness": 83,
+        "timing": 74,
+        "total_sleep": 66
+      },
+      "day": "2024-04-17",
+      "score": 76,
+      "timestamp": "2024-04-17T00:00:00+00:00"
+    },
+    {
+      "id": "a35a5d29-2b80-413d-b689-05dc1f6c9f65",
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 71,
+        "restfulness": 80,
+        "timing": 99,
+        "total_sleep": 55
+      },
+      "day": "2024-04-18",
+      "score": 75,
+      "timestamp": "2024-04-18T00:00:00+00:00"
+    },
+    {
+      "id": "b2003d36-67e2-4cf4-8c46-61a486ddedd6",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 74,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2024-04-19",
+      "score": 81,
+      "timestamp": "2024-04-19T00:00:00+00:00"
+    },
+    {
+      "id": "0d5beca6-af17-4da9-9c50-bd3389e60f01",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 84,
+        "timing": 77,
+        "total_sleep": 83
+      },
+      "day": "2024-04-20",
+      "score": 87,
+      "timestamp": "2024-04-19T20:00:00-04:00"
+    },
+    {
+      "id": "1f9829f5-3dcf-43ff-8ac1-76a3090a7bd0",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 74,
+        "timing": 97,
+        "total_sleep": 75
+      },
+      "day": "2024-04-21",
+      "score": 82,
+      "timestamp": "2024-04-21T00:00:00+00:00"
+    },
+    {
+      "id": "c57db239-d67c-4540-ac75-0fe23a8f5be3",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 76,
+        "timing": 74,
+        "total_sleep": 86
+      },
+      "day": "2024-04-22",
+      "score": 86,
+      "timestamp": "2024-04-22T00:00:00+00:00"
+    },
+    {
+      "id": "6f8db86d-f3a2-4eee-97ed-df451144d511",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-04-24",
+      "score": 86,
+      "timestamp": "2024-04-24T00:00:00+00:00"
+    },
+    {
+      "id": "49f23e5d-7bbe-4a34-ae9d-c870d88caf1e",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 68,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 56
+      },
+      "day": "2024-04-25",
+      "score": 75,
+      "timestamp": "2024-04-25T00:00:00+00:00"
+    },
+    {
+      "id": "480168da-6e17-456c-9892-30692839e207",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 99,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 91,
+        "timing": 95,
+        "total_sleep": 91
+      },
+      "day": "2024-04-26",
+      "score": 91,
+      "timestamp": "2024-04-26T00:00:00+00:00"
+    },
+    {
+      "id": "c9e8b854-f799-4b9d-948c-87a38305fc4a",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 68,
+        "restfulness": 81,
+        "timing": 72,
+        "total_sleep": 72
+      },
+      "day": "2024-04-27",
+      "score": 75,
+      "timestamp": "2024-04-27T00:00:00+00:00"
+    },
+    {
+      "id": "5500dee2-ac9c-4de1-b1d6-b4b74cde8d46",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 64,
+        "rem_sleep": 71,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 49
+      },
+      "day": "2024-04-28",
+      "score": 73,
+      "timestamp": "2024-04-28T00:00:00+00:00"
+    },
+    {
+      "id": "7b24ac43-fd9c-499f-9dce-2037abda9ed1",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 89,
+        "rem_sleep": 92,
+        "restfulness": 79,
+        "timing": 87,
+        "total_sleep": 85
+      },
+      "day": "2024-04-29",
+      "score": 87,
+      "timestamp": "2024-04-29T00:00:00+00:00"
+    },
+    {
+      "id": "8696f9dd-b4bf-4d10-99b9-4228cd0d9d5e",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 86,
+        "rem_sleep": 95,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-04-30",
+      "score": 87,
+      "timestamp": "2024-04-29T17:00:00-07:00"
+    },
+    {
+      "id": "b82b206c-cc1a-437b-99c6-7b2665aab856",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 94,
+        "timing": 80,
+        "total_sleep": 68
+      },
+      "day": "2024-05-01",
+      "score": 81,
+      "timestamp": "2024-05-01T00:00:00+00:00"
+    },
+    {
+      "id": "85504251-116c-42da-a0c8-0b6762c85e85",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 91,
+        "restfulness": 82,
+        "timing": 64,
+        "total_sleep": 70
+      },
+      "day": "2024-05-02",
+      "score": 79,
+      "timestamp": "2024-05-02T00:00:00+00:00"
+    },
+    {
+      "id": "470f2efb-17f4-42ea-8091-58ff85c52217",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 89,
+        "timing": 8,
+        "total_sleep": 58
+      },
+      "day": "2024-05-03",
+      "score": 70,
+      "timestamp": "2024-05-03T00:00:00+00:00"
+    },
+    {
+      "id": "7987952d-5e66-4633-aaf5-f75b1c354e3a",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 79,
+        "restfulness": 81,
+        "timing": 58,
+        "total_sleep": 75
+      },
+      "day": "2024-05-04",
+      "score": 81,
+      "timestamp": "2024-05-04T00:00:00+00:00"
+    },
+    {
+      "id": "1ad7a7dd-2946-41fe-a304-b0925c01daae",
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 88,
+        "latency": 81,
+        "rem_sleep": 81,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2024-05-05",
+      "score": 74,
+      "timestamp": "2024-05-05T00:00:00+00:00"
+    },
+    {
+      "id": "a33297d1-992e-4f03-bf10-2b004b7f8909",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 76,
+        "timing": 52,
+        "total_sleep": 85
+      },
+      "day": "2024-05-06",
+      "score": 83,
+      "timestamp": "2024-05-06T00:00:00+00:00"
+    },
+    {
+      "id": "a576c941-5f4c-470c-9d5c-3520ee95f190",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 84,
+        "timing": 85,
+        "total_sleep": 69
+      },
+      "day": "2024-05-07",
+      "score": 82,
+      "timestamp": "2024-05-06T20:00:00-04:00"
+    },
+    {
+      "id": "a100affe-e47b-4bc9-a06c-0716034aaf50",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 69,
+        "restfulness": 81,
+        "timing": 96,
+        "total_sleep": 57
+      },
+      "day": "2024-05-08",
+      "score": 74,
+      "timestamp": "2024-05-08T00:00:00+00:00"
+    },
+    {
+      "id": "d3a9beb3-f524-4916-a753-1281bba84660",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 87,
+        "timing": 79,
+        "total_sleep": 91
+      },
+      "day": "2024-05-09",
+      "score": 91,
+      "timestamp": "2024-05-09T00:00:00+00:00"
+    },
+    {
+      "id": "10d91cb1-ebd6-4b66-8bc4-58d34a5cb653",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 87,
+        "restfulness": 77,
+        "timing": 76,
+        "total_sleep": 72
+      },
+      "day": "2024-05-10",
+      "score": 79,
+      "timestamp": "2024-05-10T00:00:00+00:00"
+    },
+    {
+      "id": "e339462d-32dc-4852-9533-8e4cd77863f9",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 99,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 82,
+        "timing": 82,
+        "total_sleep": 86
+      },
+      "day": "2024-05-11",
+      "score": 90,
+      "timestamp": "2024-05-11T00:00:00+00:00"
+    },
+    {
+      "id": "2def4d58-ac63-4cbc-a201-d49c9f1ba88b",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 80,
+        "restfulness": 80,
+        "timing": 80,
+        "total_sleep": 76
+      },
+      "day": "2024-05-12",
+      "score": 82,
+      "timestamp": "2024-05-12T00:00:00+00:00"
+    },
+    {
+      "id": "0110d904-17b8-48d5-b218-d38ef3baf36b",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 67,
+        "timing": 88,
+        "total_sleep": 76
+      },
+      "day": "2024-05-13",
+      "score": 82,
+      "timestamp": "2024-05-13T00:00:00+00:00"
+    },
+    {
+      "id": "fcda3dd0-5556-45ff-8c2b-07b59067d647",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 80,
+        "restfulness": 80,
+        "timing": 59,
+        "total_sleep": 77
+      },
+      "day": "2024-05-14",
+      "score": 80,
+      "timestamp": "2024-05-14T00:00:00+00:00"
+    },
+    {
+      "id": "1a3894f4-9655-4d50-8b7a-b13656b51226",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 83,
+        "timing": 78,
+        "total_sleep": 87
+      },
+      "day": "2024-05-21",
+      "score": 86,
+      "timestamp": "2024-05-21T00:00:00+00:00"
+    },
+    {
+      "id": "5de5af56-e9a3-4746-a5fd-e07dd1574613",
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 93,
+        "latency": 54,
+        "rem_sleep": 86,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2024-05-22",
+      "score": 74,
+      "timestamp": "2024-05-22T00:00:00+00:00"
+    },
+    {
+      "id": "7f07a3e6-f5cf-485b-b13f-d555dc1945cb",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 93,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-05-23",
+      "score": 85,
+      "timestamp": "2024-05-23T00:00:00+00:00"
+    },
+    {
+      "id": "4e0c2f93-8a0f-44ca-b5c7-404913f286fd",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 88,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2024-05-24",
+      "score": 95,
+      "timestamp": "2024-05-24T00:00:00+00:00"
+    },
+    {
+      "id": "6a999530-6afa-467e-8a30-425f397d1add",
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 55,
+        "restfulness": 72,
+        "timing": 68,
+        "total_sleep": 54
+      },
+      "day": "2024-05-25",
+      "score": 64,
+      "timestamp": "2024-05-25T00:00:00+00:00"
+    },
+    {
+      "id": "5d230607-c8d4-4a7b-91dd-d32dd730f201",
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-05-27",
+      "score": 79,
+      "timestamp": "2024-05-27T00:00:00+00:00"
+    },
+    {
+      "id": "39ff965e-e96e-4076-828d-95cd67eaa502",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 89,
+        "restfulness": 72,
+        "timing": 72,
+        "total_sleep": 91
+      },
+      "day": "2024-05-28",
+      "score": 87,
+      "timestamp": "2024-05-28T00:00:00+00:00"
+    },
+    {
+      "id": "2efbd2bf-9e9f-4cef-b7c8-1a350cd09ab8",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 22,
+        "total_sleep": 85
+      },
+      "day": "2024-05-29",
+      "score": 80,
+      "timestamp": "2024-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "d8490942-b828-47c3-b5ad-d20bc792860d",
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 61,
+        "restfulness": 84,
+        "timing": 9,
+        "total_sleep": 37
+      },
+      "day": "2024-05-30",
+      "score": 58,
+      "timestamp": "2024-05-30T00:00:00+00:00"
+    },
+    {
+      "id": "a98e9e20-f46c-4c85-baab-8c4ad7afeae1",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 99,
+        "restfulness": 84,
+        "timing": 80,
+        "total_sleep": 99
+      },
+      "day": "2024-05-31",
+      "score": 91,
+      "timestamp": "2024-05-31T00:00:00+00:00"
+    },
+    {
+      "id": "c1f6a159-ea69-469d-9f8d-ad83918ab226",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 69,
+        "restfulness": 89,
+        "timing": 41,
+        "total_sleep": 59
+      },
+      "day": "2024-06-01",
+      "score": 71,
+      "timestamp": "2024-06-01T00:00:00+00:00"
+    },
+    {
+      "id": "41ced23f-6735-4bfb-b776-37c8df3d2731",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 86,
+        "restfulness": 81,
+        "timing": 76,
+        "total_sleep": 66
+      },
+      "day": "2024-06-02",
+      "score": 76,
+      "timestamp": "2024-06-02T00:00:00+00:00"
+    },
+    {
+      "id": "6ec7b715-9a6c-450f-b743-7845bcdc5bd9",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 99,
+        "restfulness": 82,
+        "timing": 53,
+        "total_sleep": 100
+      },
+      "day": "2024-06-03",
+      "score": 88,
+      "timestamp": "2024-06-03T00:00:00+00:00"
+    },
+    {
+      "id": "c1e50859-a98f-42c7-86c4-7b3ae907a7fb",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 83,
+        "latency": 81,
+        "rem_sleep": 67,
+        "restfulness": 69,
+        "timing": 88,
+        "total_sleep": 61
+      },
+      "day": "2024-06-04",
+      "score": 73,
+      "timestamp": "2024-06-04T00:00:00+00:00"
+    },
+    {
+      "id": "e7c5315c-d65f-423d-9500-50f263ac0df3",
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 87,
+        "timing": 95,
+        "total_sleep": 75
+      },
+      "day": "2024-06-05",
+      "score": 84,
+      "timestamp": "2024-06-05T00:00:00+00:00"
+    },
+    {
+      "id": "efae5b5c-2853-4869-849b-c3680be783d6",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 77,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-06-06",
+      "score": 78,
+      "timestamp": "2024-06-06T00:00:00+00:00"
+    },
+    {
+      "id": "da926226-cd68-42e7-bb7e-892eb382cfd7",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 89,
+        "timing": 69,
+        "total_sleep": 79
+      },
+      "day": "2024-06-07",
+      "score": 82,
+      "timestamp": "2024-06-07T00:00:00+00:00"
+    },
+    {
+      "id": "bae68fbf-1c43-4da2-ae83-c18ab5957fad",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 85,
+        "timing": 61,
+        "total_sleep": 87
+      },
+      "day": "2024-06-08",
+      "score": 85,
+      "timestamp": "2024-06-08T00:00:00+00:00"
+    },
+    {
+      "id": "384b41d7-cbfc-4e53-b480-8c21ae8866d0",
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 84,
+        "restfulness": 83,
+        "timing": 68,
+        "total_sleep": 67
+      },
+      "day": "2024-06-09",
+      "score": 79,
+      "timestamp": "2024-06-09T00:00:00+00:00"
+    },
+    {
+      "id": "daa1d83f-2c2d-4970-b028-dfe9fcb4ffe6",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 97,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 80,
+        "timing": 71,
+        "total_sleep": 93
+      },
+      "day": "2024-06-10",
+      "score": 89,
+      "timestamp": "2024-06-10T00:00:00+00:00"
+    },
+    {
+      "id": "5f9ae258-7d98-4a55-88b8-543677eeb762",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 81,
+        "latency": 12,
+        "rem_sleep": 90,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-06-11",
+      "score": 80,
+      "timestamp": "2024-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "7dc8c5e8-787f-47e6-a60c-d77f236948e0",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 91,
+        "restfulness": 83,
+        "timing": 66,
+        "total_sleep": 80
+      },
+      "day": "2024-06-12",
+      "score": 82,
+      "timestamp": "2024-06-12T00:00:00+00:00"
+    },
+    {
+      "id": "e311198a-3544-44c8-aeaa-ebb2f883ab4c",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 90,
+        "latency": 91,
+        "rem_sleep": 84,
+        "restfulness": 80,
+        "timing": 11,
+        "total_sleep": 73
+      },
+      "day": "2024-06-13",
+      "score": 75,
+      "timestamp": "2024-06-13T00:00:00+00:00"
+    },
+    {
+      "id": "5a7efb91-d323-4af5-bf2f-28a94e7a7cc8",
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 93,
+        "latency": 99,
+        "rem_sleep": 87,
+        "restfulness": 71,
+        "timing": 78,
+        "total_sleep": 87
+      },
+      "day": "2024-06-14",
+      "score": 83,
+      "timestamp": "2024-06-14T00:00:00+00:00"
+    },
+    {
+      "id": "97cb9fab-33c5-4405-90ef-924345546db2",
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 61,
+        "restfulness": 59,
+        "timing": 89,
+        "total_sleep": 68
+      },
+      "day": "2024-06-15",
+      "score": 70,
+      "timestamp": "2024-06-15T00:00:00+00:00"
+    },
+    {
+      "id": "aa53f327-c2e2-4991-af63-fd3b378ce8fc",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 65,
+        "restfulness": 89,
+        "timing": 70,
+        "total_sleep": 70
+      },
+      "day": "2024-06-16",
+      "score": 79,
+      "timestamp": "2024-06-16T00:00:00+00:00"
+    },
+    {
+      "id": "80bd22f7-8f53-4290-a23e-c633849d91c6",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 99,
+        "restfulness": 84,
+        "timing": 81,
+        "total_sleep": 87
+      },
+      "day": "2024-06-17",
+      "score": 89,
+      "timestamp": "2024-06-17T00:00:00+00:00"
+    },
+    {
+      "id": "ceb07da1-a97e-487c-a829-6d9cc79848ab",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 95,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2024-06-20",
+      "score": 84,
+      "timestamp": "2024-06-20T00:00:00+00:00"
+    },
+    {
+      "id": "70a814de-8f3b-45ed-a02f-518b73543afe",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 97,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 79,
+        "timing": 85,
+        "total_sleep": 68
+      },
+      "day": "2024-06-21",
+      "score": 80,
+      "timestamp": "2024-06-21T00:00:00+00:00"
+    },
+    {
+      "id": "dffc892e-ae2a-49d8-a702-850408096785",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 61,
+        "timing": 91,
+        "total_sleep": 71
+      },
+      "day": "2024-06-22",
+      "score": 79,
+      "timestamp": "2024-06-22T00:00:00+00:00"
+    },
+    {
+      "id": "d8cfd123-cd3d-4608-823d-7aa0a7d82a54",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 86,
+        "restfulness": 85,
+        "timing": 73,
+        "total_sleep": 56
+      },
+      "day": "2024-06-23",
+      "score": 75,
+      "timestamp": "2024-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "24d004cc-af90-4783-9aaa-a25f1a19d47b",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 80,
+        "timing": 72,
+        "total_sleep": 72
+      },
+      "day": "2024-06-24",
+      "score": 80,
+      "timestamp": "2024-06-24T00:00:00+00:00"
+    },
+    {
+      "id": "14235e47-fa0e-40bd-bc0c-1dbafdf45868",
+      "contributors": {
+        "deep_sleep": 99,
+        "efficiency": 98,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 82,
+        "total_sleep": 85
+      },
+      "day": "2024-06-25",
+      "score": 85,
+      "timestamp": "2024-06-25T00:00:00+00:00"
+    },
+    {
+      "id": "0ffa3b6b-13b2-421e-9a93-701da5a7af59",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 86,
+        "timing": 79,
+        "total_sleep": 80
+      },
+      "day": "2024-06-26",
+      "score": 85,
+      "timestamp": "2024-06-26T00:00:00+00:00"
+    },
+    {
+      "id": "d458e99a-6448-4be9-a1a9-92271d9a2e4e",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 70,
+        "restfulness": 90,
+        "timing": 20,
+        "total_sleep": 63
+      },
+      "day": "2024-06-27",
+      "score": 70,
+      "timestamp": "2024-06-27T00:00:00+00:00"
+    },
+    {
+      "id": "b7be6489-2adc-4ddf-9ae6-aeb425ea2feb",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 50,
+        "total_sleep": 85
+      },
+      "day": "2024-06-28",
+      "score": 82,
+      "timestamp": "2024-06-28T00:00:00+00:00"
+    },
+    {
+      "id": "060cf2a9-0997-45a5-9ade-c6dfd8293f31",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 66,
+        "total_sleep": 80
+      },
+      "day": "2024-06-29",
+      "score": 83,
+      "timestamp": "2024-06-29T00:00:00+00:00"
+    },
+    {
+      "id": "28ebbbf5-79f9-4588-abe5-b495a5e27635",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 83,
+        "restfulness": 83,
+        "timing": 71,
+        "total_sleep": 68
+      },
+      "day": "2024-06-30",
+      "score": 80,
+      "timestamp": "2024-06-30T00:00:00+00:00"
+    },
+    {
+      "id": "9265f74f-b847-43f4-9966-94ccc69ab36e",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 80,
+        "restfulness": 86,
+        "timing": 91,
+        "total_sleep": 85
+      },
+      "day": "2024-07-03",
+      "score": 87,
+      "timestamp": "2024-07-03T00:00:00+00:00"
+    },
+    {
+      "id": "c726c882-4250-462f-a6ac-b9da1f3f12a2",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 75,
+        "restfulness": 87,
+        "timing": 99,
+        "total_sleep": 67
+      },
+      "day": "2024-07-04",
+      "score": 79,
+      "timestamp": "2024-07-04T00:00:00+00:00"
+    },
+    {
+      "id": "e4e135c3-832a-4654-b6cf-81707ca3a4cf",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 87,
+        "restfulness": 79,
+        "timing": 72,
+        "total_sleep": 68
+      },
+      "day": "2024-07-05",
+      "score": 78,
+      "timestamp": "2024-07-05T00:00:00+00:00"
+    },
+    {
+      "id": "19ceb33b-ad2a-47f6-ac83-aac41c1ed2f1",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 91,
+        "restfulness": 81,
+        "timing": 75,
+        "total_sleep": 73
+      },
+      "day": "2024-07-07",
+      "score": 81,
+      "timestamp": "2024-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "3f0deaff-ca08-41fe-aae9-5d6c9bd6ab2b",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 91,
+        "restfulness": 86,
+        "timing": 83,
+        "total_sleep": 86
+      },
+      "day": "2024-07-12",
+      "score": 88,
+      "timestamp": "2024-07-12T00:00:00+00:00"
+    },
+    {
+      "id": "1970bbd1-c124-44ef-902d-fc161f4c206b",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 79,
+        "timing": 88,
+        "total_sleep": 90
+      },
+      "day": "2024-07-14",
+      "score": 88,
+      "timestamp": "2024-07-14T00:00:00+00:00"
+    },
+    {
+      "id": "47e213b2-350a-4880-97d2-db80d61c506c",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 94,
+        "restfulness": 81,
+        "timing": 79,
+        "total_sleep": 64
+      },
+      "day": "2024-07-25",
+      "score": 81,
+      "timestamp": "2024-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "2746f4ee-17fa-4abc-8b4e-19366fcff955",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 85,
+        "timing": 79,
+        "total_sleep": 89
+      },
+      "day": "2024-07-26",
+      "score": 90,
+      "timestamp": "2024-07-26T00:00:00+00:00"
+    },
+    {
+      "id": "e984e3f6-656c-44f3-9e73-13952d851a22",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 86,
+        "restfulness": 87,
+        "timing": 93,
+        "total_sleep": 68
+      },
+      "day": "2024-07-27",
+      "score": 81,
+      "timestamp": "2024-07-27T00:00:00+00:00"
+    },
+    {
+      "id": "dfa76d15-779c-43ad-a515-8052df20be09",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 65,
+        "restfulness": 82,
+        "timing": 92,
+        "total_sleep": 69
+      },
+      "day": "2024-07-28",
+      "score": 78,
+      "timestamp": "2024-07-28T00:00:00+00:00"
+    },
+    {
+      "id": "33246f40-3a7d-42f9-bf90-7e5e8b0137c9",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 91,
+        "restfulness": 84,
+        "timing": 81,
+        "total_sleep": 76
+      },
+      "day": "2024-08-04",
+      "score": 82,
+      "timestamp": "2024-08-04T00:00:00+00:00"
+    },
+    {
+      "id": "74e6e639-5152-48f6-8d47-43737d2a67f4",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 85,
+        "restfulness": 83,
+        "timing": 67,
+        "total_sleep": 74
+      },
+      "day": "2024-08-05",
+      "score": 78,
+      "timestamp": "2024-08-05T00:00:00+00:00"
+    },
+    {
+      "id": "5d4451ef-ac51-473d-8de6-748ffdc89214",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 86,
+        "timing": 56,
+        "total_sleep": 83
+      },
+      "day": "2024-08-06",
+      "score": 81,
+      "timestamp": "2024-08-06T00:00:00+00:00"
+    },
+    {
+      "id": "25fb8f50-5ab1-4e88-be3d-cc00b68e1f5d",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 83,
+        "latency": 46,
+        "rem_sleep": 82,
+        "restfulness": 83,
+        "timing": 68,
+        "total_sleep": 66
+      },
+      "day": "2024-08-07",
+      "score": 73,
+      "timestamp": "2024-08-07T00:00:00+00:00"
+    },
+    {
+      "id": "2e51cb2b-257d-4a0c-9fc0-fbcc22815ef5",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 88,
+        "latency": 81,
+        "rem_sleep": 97,
+        "restfulness": 86,
+        "timing": 45,
+        "total_sleep": 91
+      },
+      "day": "2024-08-08",
+      "score": 86,
+      "timestamp": "2024-08-08T00:00:00+00:00"
+    },
+    {
+      "id": "278d0f28-e565-4f2c-afb5-d51a4295467d",
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 90,
+        "latency": 97,
+        "rem_sleep": 90,
+        "restfulness": 86,
+        "timing": 78,
+        "total_sleep": 68
+      },
+      "day": "2024-08-09",
+      "score": 79,
+      "timestamp": "2024-08-09T00:00:00+00:00"
+    },
+    {
+      "id": "229f11ab-7cac-434b-9bc6-1d485dbce907",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 99,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 79,
+        "timing": 55,
+        "total_sleep": 88
+      },
+      "day": "2024-08-10",
+      "score": 85,
+      "timestamp": "2024-08-10T00:00:00+00:00"
+    },
+    {
+      "id": "99b456ce-f2b4-4f39-a5ef-660e3e1044fa",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 85,
+        "restfulness": 87,
+        "timing": 59,
+        "total_sleep": 71
+      },
+      "day": "2024-08-11",
+      "score": 81,
+      "timestamp": "2024-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "ac8515f4-f08f-4cff-95bb-0a95912b2b21",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 76,
+        "timing": 72,
+        "total_sleep": 80
+      },
+      "day": "2024-08-12",
+      "score": 80,
+      "timestamp": "2024-08-12T00:00:00+00:00"
+    },
+    {
+      "id": "341dc3af-d2d5-4964-bb01-ce5e4e48b72e",
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 90,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 57,
+        "total_sleep": 67
+      },
+      "day": "2024-08-13",
+      "score": 76,
+      "timestamp": "2024-08-12T21:00:00-03:00"
+    },
+    {
+      "id": "ab1e2e88-2464-486d-a78c-0cd8807f636f",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 76,
+        "latency": 75,
+        "rem_sleep": 63,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 59
+      },
+      "day": "2024-08-15",
+      "score": 73,
+      "timestamp": "2024-08-15T00:00:00+00:00"
+    },
+    {
+      "id": "3d104ad6-733c-4f2e-883e-ec9bd20e8c25",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 22,
+        "rem_sleep": 86,
+        "restfulness": 94,
+        "timing": 79,
+        "total_sleep": 77
+      },
+      "day": "2024-08-16",
+      "score": 78,
+      "timestamp": "2024-08-16T00:00:00+00:00"
+    },
+    {
+      "id": "23b33e6d-8e85-4481-ab72-0aaa818e08c4",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 86,
+        "timing": 66,
+        "total_sleep": 78
+      },
+      "day": "2024-08-17",
+      "score": 81,
+      "timestamp": "2024-08-17T00:00:00+00:00"
+    },
+    {
+      "id": "cc37dd23-aa5e-4a46-952e-34807199f00a",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-08-18",
+      "score": 87,
+      "timestamp": "2024-08-18T00:00:00+00:00"
+    },
+    {
+      "id": "f86e2905-41b7-4f32-9a4d-f4fd33261e19",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 70,
+        "restfulness": 95,
+        "timing": 26,
+        "total_sleep": 49
+      },
+      "day": "2024-08-19",
+      "score": 69,
+      "timestamp": "2024-08-19T00:00:00+00:00"
+    },
+    {
+      "id": "7be223cf-3de5-4e0b-87e2-fe023f7a91e1",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 69,
+        "restfulness": 72,
+        "timing": 62,
+        "total_sleep": 88
+      },
+      "day": "2024-08-20",
+      "score": 79,
+      "timestamp": "2024-08-20T00:00:00+00:00"
+    },
+    {
+      "id": "1fc64767-54ee-4a5d-84cd-52a0c206caa0",
+      "contributors": {
+        "deep_sleep": 100,
+        "efficiency": 99,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 83,
+        "timing": 23,
+        "total_sleep": 96
+      },
+      "day": "2024-08-21",
+      "score": 85,
+      "timestamp": "2024-08-21T00:00:00+00:00"
+    },
+    {
+      "id": "539ade53-3a9e-43f8-bfd5-645bd98f283c",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 96,
+        "latency": 54,
+        "rem_sleep": 96,
+        "restfulness": 93,
+        "timing": 67,
+        "total_sleep": 71
+      },
+      "day": "2024-08-22",
+      "score": 79,
+      "timestamp": "2024-08-22T00:00:00+00:00"
+    },
+    {
+      "id": "25acaa12-0004-4e8c-9686-8ab9a9847134",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 81,
+        "latency": 22,
+        "rem_sleep": 64,
+        "restfulness": 87,
+        "timing": 58,
+        "total_sleep": 69
+      },
+      "day": "2024-08-23",
+      "score": 69,
+      "timestamp": "2024-08-23T00:00:00+00:00"
+    },
+    {
+      "id": "482655df-79d2-46c8-af17-2d6f897f5129",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 56,
+        "rem_sleep": 98,
+        "restfulness": 84,
+        "timing": 53,
+        "total_sleep": 99
+      },
+      "day": "2024-08-24",
+      "score": 87,
+      "timestamp": "2024-08-24T00:00:00+00:00"
+    },
+    {
+      "id": "878ef9be-de7c-4cec-adae-c494b2ea149c",
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 86,
+        "restfulness": 81,
+        "timing": 85,
+        "total_sleep": 75
+      },
+      "day": "2024-08-25",
+      "score": 78,
+      "timestamp": "2024-08-24T20:00:00-04:00"
+    },
+    {
+      "id": "2bdc8e19-d832-414e-8986-c923cb400769",
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 95,
+        "restfulness": 97,
+        "timing": 87,
+        "total_sleep": 70
+      },
+      "day": "2024-08-26",
+      "score": 84,
+      "timestamp": "2024-08-26T00:00:00+00:00"
+    },
+    {
+      "id": "6b39b87f-97c5-4386-ad54-10687f6baa6e",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 78,
+        "restfulness": 87,
+        "timing": 79,
+        "total_sleep": 75
+      },
+      "day": "2024-08-27",
+      "score": 81,
+      "timestamp": "2024-08-27T00:00:00+00:00"
+    },
+    {
+      "id": "188d49e4-f229-40f7-be92-407fe4ebb4ea",
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 62,
+        "restfulness": 73,
+        "timing": 53,
+        "total_sleep": 46
+      },
+      "day": "2024-08-28",
+      "score": 61,
+      "timestamp": "2024-08-28T00:00:00+00:00"
+    },
+    {
+      "id": "db5912c4-e718-4de5-b123-ebeadb13d65e",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 77,
+        "timing": 51,
+        "total_sleep": 78
+      },
+      "day": "2024-08-29",
+      "score": 81,
+      "timestamp": "2024-08-29T00:00:00+00:00"
+    },
+    {
+      "id": "95200014-7181-478e-bea4-c446c1495e2a",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 99,
+        "latency": 83,
+        "rem_sleep": 93,
+        "restfulness": 83,
+        "timing": 73,
+        "total_sleep": 75
+      },
+      "day": "2024-08-30",
+      "score": 83,
+      "timestamp": "2024-08-30T00:00:00+00:00"
+    },
+    {
+      "id": "8d116470-511e-4c52-a753-dcd53721d59d",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 99,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 89,
+        "timing": 73,
+        "total_sleep": 82
+      },
+      "day": "2024-08-31",
+      "score": 87,
+      "timestamp": "2024-08-31T00:00:00+00:00"
+    },
+    {
+      "id": "a6388d17-2343-4d40-a64f-9c233d918afd",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 83,
+        "rem_sleep": 95,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2024-09-01",
+      "score": 86,
+      "timestamp": "2024-09-01T00:00:00+00:00"
+    },
+    {
+      "id": "d439f8a9-1e08-40b8-844e-1549410ca42a",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 78,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-09-02",
+      "score": 82,
+      "timestamp": "2024-09-02T00:00:00+00:00"
+    },
+    {
+      "id": "4ab9ec3f-5470-4db2-bc5b-6bea66dbfe1a",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 76,
+        "restfulness": 93,
+        "timing": 96,
+        "total_sleep": 78
+      },
+      "day": "2024-09-03",
+      "score": 84,
+      "timestamp": "2024-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "554111a8-860c-440f-9fa2-73805a6b19ee",
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 95,
+        "restfulness": 76,
+        "timing": 88,
+        "total_sleep": 73
+      },
+      "day": "2024-09-04",
+      "score": 79,
+      "timestamp": "2024-09-04T00:00:00+00:00"
+    },
+    {
+      "id": "29b52bc1-c942-4326-9fa6-5aa2489c4087",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 76,
+        "latency": 86,
+        "rem_sleep": 95,
+        "restfulness": 82,
+        "timing": 56,
+        "total_sleep": 60
+      },
+      "day": "2024-09-05",
+      "score": 74,
+      "timestamp": "2024-09-05T00:00:00+00:00"
+    },
+    {
+      "id": "5c7103f9-8779-43fb-92c2-166647bf98ed",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 89,
+        "timing": 23,
+        "total_sleep": 85
+      },
+      "day": "2024-09-09",
+      "score": 81,
+      "timestamp": "2024-09-09T00:00:00+00:00"
+    },
+    {
+      "id": "b8c84d71-bbce-4de3-83e5-a57ccca0a010",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 91,
+        "timing": 61,
+        "total_sleep": 81
+      },
+      "day": "2024-09-10",
+      "score": 84,
+      "timestamp": "2024-09-10T00:00:00+00:00"
+    },
+    {
+      "id": "636cee0d-32b0-4846-97a9-6153849b3784",
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 94,
+        "restfulness": 96,
+        "timing": 61,
+        "total_sleep": 64
+      },
+      "day": "2024-09-11",
+      "score": 80,
+      "timestamp": "2024-09-11T00:00:00+00:00"
+    },
+    {
+      "id": "dcb86fe5-8a2c-412a-b9be-753a0a712a82",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 79,
+        "latency": 59,
+        "rem_sleep": 98,
+        "restfulness": 67,
+        "timing": 54,
+        "total_sleep": 90
+      },
+      "day": "2024-09-12",
+      "score": 80,
+      "timestamp": "2024-09-12T00:00:00+00:00"
+    },
+    {
+      "id": "1abc5a93-4ede-41b0-bc96-218ccbfb5d12",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 79,
+        "timing": 54,
+        "total_sleep": 69
+      },
+      "day": "2024-09-14",
+      "score": 77,
+      "timestamp": "2024-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "f5926092-4dfe-4473-abb0-6031c76acfb8",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 66,
+        "restfulness": 70,
+        "timing": 57,
+        "total_sleep": 69
+      },
+      "day": "2024-09-15",
+      "score": 74,
+      "timestamp": "2024-09-15T00:00:00+00:00"
+    },
+    {
+      "id": "f7aacc2e-ff9e-4338-ba84-2872edf80c73",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 92,
+        "restfulness": 77,
+        "timing": 86,
+        "total_sleep": 92
+      },
+      "day": "2024-09-16",
+      "score": 89,
+      "timestamp": "2024-09-16T00:00:00+00:00"
+    },
+    {
+      "id": "91d3be06-1442-4909-80af-4da5083c29b7",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 56,
+        "timing": 73,
+        "total_sleep": 77
+      },
+      "day": "2024-09-17",
+      "score": 79,
+      "timestamp": "2024-09-17T00:00:00+00:00"
+    },
+    {
+      "id": "0a524042-6244-48b9-b4cd-732cfa3b2bda",
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 86,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 90,
+        "timing": 94,
+        "total_sleep": 71
+      },
+      "day": "2024-09-18",
+      "score": 82,
+      "timestamp": "2024-09-18T00:00:00+00:00"
+    },
+    {
+      "id": "e7bc1a9f-f243-40e6-bf04-3bbead411924",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 99,
+        "latency": 86,
+        "rem_sleep": 94,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-09-19",
+      "score": 82,
+      "timestamp": "2024-09-19T00:00:00+00:00"
+    },
+    {
+      "id": "84922ada-ec08-4ce5-b815-d918132f08bb",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 74,
+        "timing": 61,
+        "total_sleep": 88
+      },
+      "day": "2024-09-20",
+      "score": 83,
+      "timestamp": "2024-09-20T00:00:00+00:00"
+    },
+    {
+      "id": "106894be-dd85-4ca1-928b-2b3275250323",
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 100,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 64,
+        "total_sleep": 79
+      },
+      "day": "2024-09-21",
+      "score": 80,
+      "timestamp": "2024-09-21T00:00:00+00:00"
+    },
+    {
+      "id": "57994cad-fe58-4b9f-b716-ddd8961b176b",
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 96,
+        "latency": 62,
+        "rem_sleep": 95,
+        "restfulness": 88,
+        "timing": 98,
+        "total_sleep": 85
+      },
+      "day": "2024-12-04",
+      "score": 84,
+      "timestamp": "2024-12-04T00:00:00+00:00"
+    },
+    {
+      "id": "017cc355-989c-42e6-911c-70ada75be383",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-12-05",
+      "score": 87,
+      "timestamp": "2024-12-05T00:00:00+00:00"
+    },
+    {
+      "id": "4a49a0ac-aff0-40b4-b1d7-e8c23cd13ea9",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 86,
+        "latency": 91,
+        "rem_sleep": 64,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-12-06",
+      "score": 78,
+      "timestamp": "2024-12-06T00:00:00+00:00"
+    },
+    {
+      "id": "9c010c52-5337-4186-91f4-5743693d6bac",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 74,
+        "restfulness": 84,
+        "timing": 98,
+        "total_sleep": 79
+      },
+      "day": "2024-12-07",
+      "score": 84,
+      "timestamp": "2024-12-07T00:00:00+00:00"
+    },
+    {
+      "id": "27681793-3fe3-475c-b213-2209398fa1d0",
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 74,
+        "timing": 64,
+        "total_sleep": 85
+      },
+      "day": "2024-12-08",
+      "score": 80,
+      "timestamp": "2024-12-08T00:00:00+00:00"
+    },
+    {
+      "id": "efcec13f-2932-4ceb-9e78-1928aa196837",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 64,
+        "rem_sleep": 73,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-12-09",
+      "score": 75,
+      "timestamp": "2024-12-09T00:00:00+00:00"
+    },
+    {
+      "id": "27068962-0adc-4ab6-a17b-67a654ffebc1",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 93,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-12-10",
+      "score": 86,
+      "timestamp": "2024-12-10T00:00:00+00:00"
+    },
+    {
+      "id": "6014ae57-5e01-4130-9912-99a83c422aa2",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 94,
+        "restfulness": 91,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-12-11",
+      "score": 87,
+      "timestamp": "2024-12-11T00:00:00+00:00"
+    },
+    {
+      "id": "b14c5a56-2558-4354-a748-41d4f5babd50",
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 72,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-12-12",
+      "score": 78,
+      "timestamp": "2024-12-12T00:00:00+00:00"
+    },
+    {
+      "id": "c53f6175-7589-4098-bb42-06d758dca0ea",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 75,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2024-12-13",
+      "score": 82,
+      "timestamp": "2024-12-13T00:00:00+00:00"
+    },
+    {
+      "id": "afeda2aa-9946-4127-8fc6-560b558dad13",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 100,
+        "latency": 59,
+        "rem_sleep": 97,
+        "restfulness": 81,
+        "timing": 73,
+        "total_sleep": 82
+      },
+      "day": "2024-12-14",
+      "score": 83,
+      "timestamp": "2024-12-14T00:00:00+00:00"
+    },
+    {
+      "id": "e73a5a49-66bc-4d3e-9218-f67d537afe71",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 99,
+        "latency": 62,
+        "rem_sleep": 98,
+        "restfulness": 78,
+        "timing": 76,
+        "total_sleep": 100
+      },
+      "day": "2024-12-15",
+      "score": 89,
+      "timestamp": "2024-12-15T00:00:00+00:00"
+    },
+    {
+      "id": "e9c5c95a-e5f8-4986-b198-92e2bd147021",
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 66,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-12-16",
+      "score": 84,
+      "timestamp": "2024-12-16T00:00:00+00:00"
+    },
+    {
+      "id": "b641d8ed-d67b-418b-9c71-8d29e8dfed02",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 86,
+        "restfulness": 91,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-12-18",
+      "score": 84,
+      "timestamp": "2024-12-18T00:00:00+00:00"
+    },
+    {
+      "id": "44509e58-fa1f-483a-bae9-9a7856398d1e",
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 92,
+        "restfulness": 80,
+        "timing": 85,
+        "total_sleep": 84
+      },
+      "day": "2024-12-19",
+      "score": 82,
+      "timestamp": "2024-12-19T00:00:00+00:00"
+    },
+    {
+      "id": "045532ab-6562-4004-80c8-54cd9adb2567",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 74,
+        "latency": 86,
+        "rem_sleep": 45,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 52
+      },
+      "day": "2024-12-20",
+      "score": 66,
+      "timestamp": "2024-12-20T00:00:00+00:00"
+    },
+    {
+      "id": "74cb1ecd-2804-4240-b485-d47888b76125",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 94,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2024-12-21",
+      "score": 91,
+      "timestamp": "2024-12-21T00:00:00+00:00"
+    },
+    {
+      "id": "7dc53b3a-1001-4130-86ba-ce22fa721ac0",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 77,
+        "timing": 74,
+        "total_sleep": 91
+      },
+      "day": "2024-12-22",
+      "score": 86,
+      "timestamp": "2024-12-22T00:00:00+00:00"
+    },
+    {
+      "id": "f56ffe3e-3f0f-4d09-82b3-6a556255d8fc",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 77,
+        "timing": 93,
+        "total_sleep": 98
+      },
+      "day": "2024-12-23",
+      "score": 94,
+      "timestamp": "2024-12-23T00:00:00+00:00"
+    },
+    {
+      "id": "2d7cd1c7-89ac-4848-aec4-b1d8956b7c51",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 89,
+        "restfulness": 73,
+        "timing": 89,
+        "total_sleep": 99
+      },
+      "day": "2024-12-24",
+      "score": 91,
+      "timestamp": "2024-12-24T00:00:00+00:00"
+    },
+    {
+      "id": "8a9f87d5-4dc0-4aad-bc7f-8428520da1e3",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 100,
+        "restfulness": 80,
+        "timing": 81,
+        "total_sleep": 95
+      },
+      "day": "2024-12-25",
+      "score": 89,
+      "timestamp": "2024-12-25T00:00:00+00:00"
+    },
+    {
+      "id": "73580955-25f4-4ef2-a1f9-d20c1cd15831",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 96,
+        "latency": 99,
+        "rem_sleep": 99,
+        "restfulness": 85,
+        "timing": 82,
+        "total_sleep": 87
+      },
+      "day": "2024-12-26",
+      "score": 91,
+      "timestamp": "2024-12-26T00:00:00+00:00"
+    },
+    {
+      "id": "b0d18243-2f48-434d-bfec-79e742d8a017",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 83,
+        "restfulness": 78,
+        "timing": 68,
+        "total_sleep": 60
+      },
+      "day": "2024-12-27",
+      "score": 72,
+      "timestamp": "2024-12-27T00:00:00+00:00"
+    },
+    {
+      "id": "1bbd0e2f-15c4-40b9-9ae4-897d989fa219",
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 86,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 87,
+        "timing": 72,
+        "total_sleep": 99
+      },
+      "day": "2025-01-02",
+      "score": 89,
+      "timestamp": "2025-01-02T00:00:00+00:00"
+    },
+    {
+      "id": "91598774-0856-44f4-b5d7-1a3bbedf6185",
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 76,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 76,
+        "timing": 60,
+        "total_sleep": 91
+      },
+      "day": "2025-01-03",
+      "score": 80,
+      "timestamp": "2025-01-03T00:00:00+00:00"
+    },
+    {
+      "id": "60cd4c52-2436-4285-b389-42fe11dfb4ef",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 83,
+        "timing": 69,
+        "total_sleep": 91
+      },
+      "day": "2025-01-04",
+      "score": 87,
+      "timestamp": "2025-01-04T00:00:00+00:00"
+    },
+    {
+      "id": "2b88999b-b05f-4e75-9130-bbb1a4b3987f",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 95,
+        "restfulness": 79,
+        "timing": 85,
+        "total_sleep": 91
+      },
+      "day": "2025-01-05",
+      "score": 88,
+      "timestamp": "2025-01-05T00:00:00+00:00"
+    },
+    {
+      "id": "a20a6bd1-5e10-4c47-aba2-01f3e6e7f097",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 88,
+        "latency": 70,
+        "rem_sleep": 60,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 46
+      },
+      "day": "2025-01-06",
+      "score": 68,
+      "timestamp": "2025-01-06T00:00:00+00:00"
+    },
+    {
+      "id": "4c2cf153-ecb8-4ad6-be4c-bf0717009a47",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 89,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2025-01-07",
+      "score": 83,
+      "timestamp": "2025-01-07T00:00:00+00:00"
+    },
+    {
+      "id": "bdc3501a-5b9e-48ca-b990-3f6acd49e9a0",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 94,
+        "rem_sleep": 92,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2025-01-08",
+      "score": 87,
+      "timestamp": "2025-01-08T00:00:00+00:00"
+    },
+    {
+      "id": "8c6cc29e-479f-477b-9d03-324c7e518d38",
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 98,
+        "latency": 99,
+        "rem_sleep": 85,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-01-09",
+      "score": 82,
+      "timestamp": "2025-01-09T00:00:00+00:00"
+    },
+    {
+      "id": "93c1de80-533d-4370-ae67-92b3ed82ba90",
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-01-10",
+      "score": 79,
+      "timestamp": "2025-01-10T00:00:00+00:00"
+    },
+    {
+      "id": "32622f37-913e-4c74-812d-3ed69bd4c31c",
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 82,
+        "timing": 63,
+        "total_sleep": 74
+      },
+      "day": "2025-01-12",
+      "score": 77,
+      "timestamp": "2025-01-12T00:00:00+00:00"
+    },
+    {
+      "id": "99938ebe-32bc-4fc3-9568-22ec3672df0c",
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 70,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2025-01-13",
+      "score": 74,
+      "timestamp": "2025-01-13T00:00:00+00:00"
+    },
+    {
+      "id": "9721fc85-b26f-4fdd-ac9a-4a2a6f43e7dc",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2025-01-14",
+      "score": 80,
+      "timestamp": "2025-01-14T00:00:00+00:00"
+    },
+    {
+      "id": "29f7d9d3-2161-45aa-b650-f8d9b1d24946",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2025-01-15",
+      "score": 84,
+      "timestamp": "2025-01-15T00:00:00+00:00"
+    },
+    {
+      "id": "9d0f7a5e-94a5-4902-8a62-545a2d8cfc7d",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-01-16",
+      "score": 88,
+      "timestamp": "2025-01-16T00:00:00+00:00"
+    },
+    {
+      "id": "66a45639-b932-4b01-b364-c29253ca3b9f",
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-01-17",
+      "score": 83,
+      "timestamp": "2025-01-17T00:00:00+00:00"
+    },
+    {
+      "id": "f469c61c-3033-4ec6-b662-85ca08503122",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 72,
+        "timing": 67,
+        "total_sleep": 99
+      },
+      "day": "2025-01-18",
+      "score": 88,
+      "timestamp": "2025-01-18T00:00:00+00:00"
+    },
+    {
+      "id": "5112e280-2ef5-48cc-ab7e-f2f521fa5cec",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 89,
+        "restfulness": 76,
+        "timing": 75,
+        "total_sleep": 82
+      },
+      "day": "2025-01-19",
+      "score": 80,
+      "timestamp": "2025-01-19T00:00:00+00:00"
+    },
+    {
+      "id": "a03ae41b-f5b0-484a-9aff-63f871a9e738",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 64,
+        "rem_sleep": 93,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2025-01-20",
+      "score": 81,
+      "timestamp": "2025-01-20T00:00:00+00:00"
+    },
+    {
+      "id": "33fb1c72-71eb-4c4e-a738-008b52f49398",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 81,
+        "latency": 22,
+        "rem_sleep": 78,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-01-21",
+      "score": 74,
+      "timestamp": "2025-01-21T00:00:00+00:00"
+    },
+    {
+      "id": "d34037c0-5c25-47df-a8ac-3d48c48f6bca",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 74,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-01-22",
+      "score": 84,
+      "timestamp": "2025-01-22T00:00:00+00:00"
+    },
+    {
+      "id": "e9903eeb-0269-4a18-b151-ef63682c7e6b",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 95,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-01-23",
+      "score": 82,
+      "timestamp": "2025-01-23T00:00:00+00:00"
+    },
+    {
+      "id": "38972f25-434d-4ef1-b56a-1393ba1672dd",
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 79,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2025-01-24",
+      "score": 78,
+      "timestamp": "2025-01-24T00:00:00+00:00"
+    },
+    {
+      "id": "063aaf95-3c00-42f6-ac3b-107e4d59ea52",
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 84,
+        "timing": 72,
+        "total_sleep": 83
+      },
+      "day": "2025-01-25",
+      "score": 83,
+      "timestamp": "2025-01-25T00:00:00+00:00"
+    },
+    {
+      "id": "b4a9cc34-1d2d-448a-a288-855f92f60671",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 76,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 69,
+        "timing": 98,
+        "total_sleep": 87
+      },
+      "day": "2025-01-26",
+      "score": 84,
+      "timestamp": "2025-01-26T00:00:00+00:00"
+    },
+    {
+      "id": "302f9cbe-5b25-4c00-9e35-a135fd061bd1",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 66,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2025-01-27",
+      "score": 79,
+      "timestamp": "2025-01-27T00:00:00+00:00"
+    },
+    {
+      "id": "593f378f-4d3d-4207-bce9-47d2d1cf3d42",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2025-01-28",
+      "score": 89,
+      "timestamp": "2025-01-28T00:00:00+00:00"
+    },
+    {
+      "id": "0a9f879c-acd1-46ea-a8fc-38d8a94866a5",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 68,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2025-01-29",
+      "score": 82,
+      "timestamp": "2025-01-29T00:00:00+00:00"
+    },
+    {
+      "id": "fde8d32b-fb48-425b-ac80-d5134d474692",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 86,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 69
+      },
+      "day": "2025-01-30",
+      "score": 81,
+      "timestamp": "2025-01-30T00:00:00+00:00"
+    },
+    {
+      "id": "196a1796-745b-4aca-a72a-e86ed1f47b12",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 96,
+        "latency": 64,
+        "rem_sleep": 73,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2025-01-31",
+      "score": 80,
+      "timestamp": "2025-01-31T00:00:00+00:00"
+    },
+    {
+      "id": "7eef5d72-9e51-4401-ae56-6f0d2437b487",
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 83,
+        "latency": 91,
+        "rem_sleep": 67,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2025-02-01",
+      "score": 75,
+      "timestamp": "2025-02-01T00:00:00+00:00"
+    },
+    {
+      "id": "aff54922-cd87-4268-b02e-e1dbd4faf74c",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 74,
+        "timing": 89,
+        "total_sleep": 97
+      },
+      "day": "2025-02-02",
+      "score": 91,
+      "timestamp": "2025-02-02T00:00:00+00:00"
+    },
+    {
+      "id": "2b33d65f-1f85-4e7e-ab1a-ace5242ba249",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 83,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2025-02-03",
+      "score": 86,
+      "timestamp": "2025-02-03T00:00:00+00:00"
+    },
+    {
+      "id": "1b72916f-8e86-4ad3-bcf3-7bfc5276f3d2",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-02-04",
+      "score": 86,
+      "timestamp": "2025-02-04T00:00:00+00:00"
+    },
+    {
+      "id": "8652b151-5c97-4a7a-a0a7-26c4ecc72be6",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 82,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2025-02-06",
+      "score": 83,
+      "timestamp": "2025-02-06T00:00:00+00:00"
+    },
+    {
+      "id": "be95cade-3abd-4fa8-b09a-94125d6cf68d",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 88,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2025-02-07",
+      "score": 81,
+      "timestamp": "2025-02-07T00:00:00+00:00"
+    },
+    {
+      "id": "4de2e525-ebea-46da-a062-cd6ccc0398cf",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 81,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 65,
+        "timing": 69,
+        "total_sleep": 74
+      },
+      "day": "2025-02-08",
+      "score": 78,
+      "timestamp": "2025-02-08T00:00:00+00:00"
+    },
+    {
+      "id": "3c77fb98-97a5-409f-952d-25a46083850d",
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 86,
+        "restfulness": 79,
+        "timing": 67,
+        "total_sleep": 86
+      },
+      "day": "2025-02-09",
+      "score": 82,
+      "timestamp": "2025-02-09T00:00:00+00:00"
+    },
+    {
+      "id": "6db4a75d-ff2a-44b7-a8cf-44b7dcf15c61",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 78,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-02-10",
+      "score": 83,
+      "timestamp": "2025-02-10T00:00:00+00:00"
+    },
+    {
+      "id": "da2df872-33c6-40ed-8921-fb9738d5f3c5",
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 98,
+        "latency": 99,
+        "rem_sleep": 95,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2025-02-11",
+      "score": 87,
+      "timestamp": "2025-02-11T00:00:00+00:00"
+    },
+    {
+      "id": "30947d80-84de-4b28-8206-4d41efb817ca",
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 86,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 76,
+        "timing": 94,
+        "total_sleep": 74
+      },
+      "day": "2025-02-12",
+      "score": 80,
+      "timestamp": "2025-02-12T00:00:00+00:00"
+    },
+    {
+      "id": "c10b9c9e-d36c-47a5-a7eb-2268bffadab2",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 67,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-02-13",
+      "score": 81,
+      "timestamp": "2025-02-13T00:00:00+00:00"
+    },
+    {
+      "id": "9c6de489-3a88-4fcc-87bd-7b9f461727b4",
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 83,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2025-02-14",
+      "score": 79,
+      "timestamp": "2025-02-14T00:00:00+00:00"
+    },
+    {
+      "id": "5c01beca-44f4-4e85-82f7-67f33a9b4fa0",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-02-15",
+      "score": 89,
+      "timestamp": "2025-02-15T00:00:00+00:00"
+    },
+    {
+      "id": "06fcf3fb-3e12-46b4-b5a3-fbeb6fd72180",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 67,
+        "rem_sleep": 95,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2025-02-16",
+      "score": 86,
+      "timestamp": "2025-02-16T00:00:00+00:00"
+    },
+    {
+      "id": "0b1010e4-a2c8-4982-83db-4b365d0e3337",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2025-02-17",
+      "score": 88,
+      "timestamp": "2025-02-17T00:00:00+00:00"
+    },
+    {
+      "id": "77225446-dde3-468c-9869-132285bdf6e1",
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 71,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-02-18",
+      "score": 85,
+      "timestamp": "2025-02-18T00:00:00+00:00"
+    },
+    {
+      "id": "70f24517-3acd-4909-bde3-6b6f1824fd52",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2025-02-19",
+      "score": 85,
+      "timestamp": "2025-02-19T00:00:00+00:00"
+    },
+    {
+      "id": "148f4b46-576c-4d34-b9f1-99f655a0f737",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 77,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2025-02-21",
+      "score": 84,
+      "timestamp": "2025-02-21T00:00:00+00:00"
+    },
+    {
+      "id": "e98e815b-4d93-40ee-9b94-f3c0a17db67e",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 88,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-02-22",
+      "score": 86,
+      "timestamp": "2025-02-22T00:00:00+00:00"
+    },
+    {
+      "id": "c167d430-ce8e-476c-ad1c-eaedba0cf3ac",
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 98,
+        "latency": 64,
+        "rem_sleep": 61,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2025-02-23",
+      "score": 71,
+      "timestamp": "2025-02-23T00:00:00+00:00"
+    },
+    {
+      "id": "a3c41dda-1569-4a5e-b8f4-05082c348e71",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 98,
+        "latency": 94,
+        "rem_sleep": 91,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-02-24",
+      "score": 85,
+      "timestamp": "2025-02-24T00:00:00+00:00"
+    },
+    {
+      "id": "ce56a4ae-6f67-4d2e-ad8a-1d912663c1f7",
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 80,
+        "restfulness": 86,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2025-02-25",
+      "score": 80,
+      "timestamp": "2025-02-25T00:00:00+00:00"
+    },
+    {
+      "id": "199ad53a-b6da-40b1-9cc0-c57f0c74d13f",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-02-26",
+      "score": 87,
+      "timestamp": "2025-02-26T00:00:00+00:00"
+    },
+    {
+      "id": "677a4087-f4f1-41f8-8bac-4981aad937cd",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 100,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 87,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2025-02-27",
+      "score": 87,
+      "timestamp": "2025-02-27T00:00:00+00:00"
+    },
+    {
+      "id": "683dd740-8a97-409f-89c1-fa33f4ee7320",
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 90,
+        "latency": 54,
+        "rem_sleep": 72,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2025-02-28",
+      "score": 71,
+      "timestamp": "2025-02-28T00:00:00+00:00"
+    },
+    {
+      "id": "0660c752-3fd6-4540-bd04-a69a10225644",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 54,
+        "rem_sleep": 75,
+        "restfulness": 88,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2025-03-01",
+      "score": 82,
+      "timestamp": "2025-03-01T00:00:00+00:00"
+    },
+    {
+      "id": "51efae9a-6e16-4afd-8f3f-bd5d4a7c04dc",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 83,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 58
+      },
+      "day": "2025-03-02",
+      "score": 78,
+      "timestamp": "2025-03-02T00:00:00+00:00"
+    },
+    {
+      "id": "3d47a296-6335-4777-8ca3-14232053657a",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 88,
+        "latency": 86,
+        "rem_sleep": 89,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-03-03",
+      "score": 80,
+      "timestamp": "2025-03-03T00:00:00+00:00"
+    },
+    {
+      "id": "05827fe7-4e7b-4ec6-804d-b71855800033",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 93,
+        "restfulness": 76,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-03-04",
+      "score": 82,
+      "timestamp": "2025-03-04T00:00:00+00:00"
+    },
+    {
+      "id": "6893032a-d1db-4ed3-930a-dd592df733bc",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 88,
+        "latency": 91,
+        "rem_sleep": 84,
+        "restfulness": 83,
+        "timing": 100,
+        "total_sleep": 98
+      },
+      "day": "2025-03-05",
+      "score": 93,
+      "timestamp": "2025-03-05T00:00:00+00:00"
+    },
+    {
+      "id": "69f94efe-3d37-4161-a526-550e9ab75d61",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 68,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2025-03-06",
+      "score": 83,
+      "timestamp": "2025-03-06T00:00:00+00:00"
+    },
+    {
+      "id": "49e60b8a-0ac7-4adb-a2ca-70597db4fe13",
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-03-07",
+      "score": 85,
+      "timestamp": "2025-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "0d75b72f-b73b-4dc5-b505-5df2b044145c",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 56,
+        "rem_sleep": 85,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2025-03-08",
+      "score": 79,
+      "timestamp": "2025-03-08T00:00:00+00:00"
+    },
+    {
+      "id": "a8da089a-6f56-4963-8140-d48e2b024d30",
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 80,
+        "restfulness": 96,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2025-03-09",
+      "score": 84,
+      "timestamp": "2025-03-09T00:00:00+00:00"
+    },
+    {
+      "id": "8f7dcb84-6665-4989-b494-f43a06ca2cb4",
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 93,
+        "latency": 35,
+        "rem_sleep": 71,
+        "restfulness": 84,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2025-03-10",
+      "score": 78,
+      "timestamp": "2025-03-10T00:00:00+00:00"
+    },
+    {
+      "id": "b457b924-88ac-4681-b229-062888d008aa",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 85,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2025-03-11",
+      "score": 85,
+      "timestamp": "2025-03-11T00:00:00+00:00"
+    },
+    {
+      "id": "5f6f76d8-2e01-40e3-aa4a-4779b5b0cca2",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-03-12",
+      "score": 88,
+      "timestamp": "2025-03-12T00:00:00+00:00"
+    },
+    {
+      "id": "14ea0c32-c543-41b8-9cad-f612ded13c2c",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 85,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2025-03-13",
+      "score": 82,
+      "timestamp": "2025-03-13T00:00:00+00:00"
+    },
+    {
+      "id": "16b58ad6-be31-4c74-82b5-36e0fa97f1c5",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 94,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-03-14",
+      "score": 85,
+      "timestamp": "2025-03-14T00:00:00+00:00"
+    },
+    {
+      "id": "ef0ac8cd-a559-4614-af3b-9ef9945eb287",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 100,
+        "latency": 64,
+        "rem_sleep": 90,
+        "restfulness": 91,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2025-03-15",
+      "score": 88,
+      "timestamp": "2025-03-15T00:00:00+00:00"
+    },
+    {
+      "id": "17d961c7-6669-4229-a223-082c312b358d",
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 98,
+        "latency": 81,
+        "rem_sleep": 87,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2025-03-16",
+      "score": 80,
+      "timestamp": "2025-03-16T00:00:00+00:00"
+    },
+    {
+      "id": "bf597c59-37e6-49a2-a21f-b347524ecb9c",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2025-03-17",
+      "score": 92,
+      "timestamp": "2025-03-17T00:00:00+00:00"
+    },
+    {
+      "id": "3a132c21-fb0e-44d2-882a-66ac81843b17",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-03-18",
+      "score": 83,
+      "timestamp": "2025-03-18T00:00:00+00:00"
+    },
+    {
+      "id": "672a95de-1a36-4efc-a9b4-555bfc8a34e8",
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 96,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 82,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2025-03-20",
+      "score": 85,
+      "timestamp": "2025-03-20T00:00:00+00:00"
+    },
+    {
+      "id": "7196af47-15fe-4a9a-9314-acf14b9534b5",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 72,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2025-03-21",
+      "score": 77,
+      "timestamp": "2025-03-21T00:00:00+00:00"
+    },
+    {
+      "id": "a78c745a-563c-4bb4-a163-4d9f41e3ae04",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 95,
+        "restfulness": 93,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2025-03-22",
+      "score": 86,
+      "timestamp": "2025-03-22T00:00:00+00:00"
+    },
+    {
+      "id": "d8859a5d-8af1-430e-b6e3-48e07b96076b",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 72,
+        "timing": 73,
+        "total_sleep": 84
+      },
+      "day": "2025-05-16",
+      "score": 83,
+      "timestamp": "2025-05-16T00:00:00+00:00"
+    },
+    {
+      "id": "b51acb13-4c27-48bd-b4f0-67bffb09351a",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 84,
+        "restfulness": 85,
+        "timing": 95,
+        "total_sleep": 85
+      },
+      "day": "2025-05-17",
+      "score": 89,
+      "timestamp": "2025-05-17T00:00:00+00:00"
+    },
+    {
+      "id": "9904e1e8-e993-4501-987c-c5275b0b70ca",
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 90,
+        "latency": 43,
+        "rem_sleep": 85,
+        "restfulness": 90,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-05-18",
+      "score": 77,
+      "timestamp": "2025-05-18T00:00:00+00:00"
+    },
+    {
+      "id": "a99be113-be0c-4fc1-9ba7-7bc16e6cb53d",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 80,
+        "timing": 75,
+        "total_sleep": 100
+      },
+      "day": "2025-05-19",
+      "score": 93,
+      "timestamp": "2025-05-19T00:00:00+00:00"
+    },
+    {
+      "id": "d010fe39-3749-430c-b021-721aef92b4fa",
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 87,
+        "restfulness": 76,
+        "timing": 79,
+        "total_sleep": 77
+      },
+      "day": "2025-05-20",
+      "score": 81,
+      "timestamp": "2025-05-20T00:00:00+00:00"
+    },
+    {
+      "id": "e088dfd3-89f0-404b-bd24-4197881e25c5",
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 90,
+        "latency": 75,
+        "rem_sleep": 75,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 59
+      },
+      "day": "2025-05-21",
+      "score": 73,
+      "timestamp": "2025-05-21T00:00:00+00:00"
+    },
+    {
+      "id": "fb7d398d-754d-49e9-99ec-24ff23fae52e",
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 70,
+        "timing": 60,
+        "total_sleep": 85
+      },
+      "day": "2025-05-22",
+      "score": 81,
+      "timestamp": "2025-05-22T00:00:00+00:00"
+    },
+    {
+      "id": "58ac4b99-c2e0-44f8-81fa-21a24e2bfd3f",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 98,
+        "latency": 81,
+        "rem_sleep": 100,
+        "restfulness": 77,
+        "timing": 52,
+        "total_sleep": 92
+      },
+      "day": "2025-05-24",
+      "score": 86,
+      "timestamp": "2025-05-24T00:00:00+00:00"
+    },
+    {
+      "id": "45711a13-d1cc-499e-9938-5b0a822e927c",
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 69,
+        "latency": 89,
+        "rem_sleep": 44,
+        "restfulness": 74,
+        "timing": 97,
+        "total_sleep": 45
+      },
+      "day": "2025-05-25",
+      "score": 65,
+      "timestamp": "2025-05-25T00:00:00+00:00"
+    },
+    {
+      "id": "6f241932-f92e-4a06-a0f8-9c8d558562b3",
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 78,
+        "timing": 49,
+        "total_sleep": 95
+      },
+      "day": "2025-05-26",
+      "score": 88,
+      "timestamp": "2025-05-26T00:00:00+00:00"
+    },
+    {
+      "id": "4faee6f1-beff-4af5-96fc-56fd2c5047ef",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 72,
+        "timing": 67,
+        "total_sleep": 88
+      },
+      "day": "2025-05-27",
+      "score": 85,
+      "timestamp": "2025-05-27T00:00:00+00:00"
+    },
+    {
+      "id": "3a2ca9f2-7faf-42c0-be01-b6695c14a2b2",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 78,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2025-05-28",
+      "score": 80,
+      "timestamp": "2025-05-28T00:00:00+00:00"
+    },
+    {
+      "id": "deafc4bb-ae82-46f1-af7b-0234f598acbf",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 100,
+        "restfulness": 72,
+        "timing": 42,
+        "total_sleep": 100
+      },
+      "day": "2025-05-29",
+      "score": 87,
+      "timestamp": "2025-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "a6ae5a90-4e0f-4032-ad8a-081e03784d76",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 78,
+        "timing": 86,
+        "total_sleep": 84
+      },
+      "day": "2025-05-30",
+      "score": 86,
+      "timestamp": "2025-05-30T00:00:00+00:00"
+    },
+    {
+      "id": "838b6fa3-2cc5-456c-b37c-0eec450cca02",
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 82,
+        "restfulness": 83,
+        "timing": 76,
+        "total_sleep": 76
+      },
+      "day": "2025-05-31",
+      "score": 83,
+      "timestamp": "2025-05-31T00:00:00+00:00"
+    },
+    {
+      "id": "c8fedb9b-1faf-4ef7-a52c-9fd8139684fe",
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 87,
+        "timing": 73,
+        "total_sleep": 65
+      },
+      "day": "2025-06-01",
+      "score": 78,
+      "timestamp": "2025-06-01T00:00:00+00:00"
+    },
+    {
+      "id": "02dd1f2e-b138-4941-9f50-dadb7c01c401",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 92,
+        "restfulness": 72,
+        "timing": 87,
+        "total_sleep": 83
+      },
+      "day": "2025-06-02",
+      "score": 86,
+      "timestamp": "2025-06-02T00:00:00+00:00"
+    },
+    {
+      "id": "e88c8e18-ad15-4077-9f00-6d3ba4785685",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 99,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 86,
+        "timing": 99,
+        "total_sleep": 81
+      },
+      "day": "2025-06-03",
+      "score": 87,
+      "timestamp": "2025-06-03T00:00:00+00:00"
+    },
+    {
+      "id": "b0ea4c32-7414-493c-abc7-002ee3b144f5",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 75,
+        "timing": 79,
+        "total_sleep": 85
+      },
+      "day": "2025-06-04",
+      "score": 86,
+      "timestamp": "2025-06-04T00:00:00+00:00"
+    },
+    {
+      "id": "2746332e-0e82-4797-b216-86c253feaf36",
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 87,
+        "restfulness": 78,
+        "timing": 62,
+        "total_sleep": 78
+      },
+      "day": "2025-06-05",
+      "score": 79,
+      "timestamp": "2025-06-05T00:00:00+00:00"
+    },
+    {
+      "id": "1bb3b72a-1ff4-4883-8a5d-1932f4349646",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 94,
+        "restfulness": 75,
+        "timing": 86,
+        "total_sleep": 83
+      },
+      "day": "2025-06-10",
+      "score": 85,
+      "timestamp": "2025-06-10T00:00:00+00:00"
+    },
+    {
+      "id": "a3132ff2-3df8-4fee-880d-1c254a2f50ea",
+      "contributors": {
+        "deep_sleep": 63,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 71,
+        "restfulness": 76,
+        "timing": 89,
+        "total_sleep": 75
+      },
+      "day": "2025-06-11",
+      "score": 77,
+      "timestamp": "2025-06-11T00:00:00+00:00"
+    },
+    {
+      "id": "a1b14959-cfe7-47bf-9cc0-f53281b6e9f9",
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 56,
+        "restfulness": 67,
+        "timing": 93,
+        "total_sleep": 50
+      },
+      "day": "2025-06-12",
+      "score": 67,
+      "timestamp": "2025-06-12T00:00:00+00:00"
+    },
+    {
+      "id": "d61f7018-58a7-4a79-a598-573c2991159b",
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 86,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2025-06-13",
+      "score": 83,
+      "timestamp": "2025-06-13T00:00:00+00:00"
+    },
+    {
+      "id": "5e829e29-ebfb-48dc-9f3d-91d1f493547b",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 62,
+        "timing": 57,
+        "total_sleep": 81
+      },
+      "day": "2025-06-14",
+      "score": 78,
+      "timestamp": "2025-06-14T00:00:00+00:00"
+    },
+    {
+      "id": "96ea3140-8cbe-47e7-b35b-5913bcad9d21",
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 56,
+        "restfulness": 85,
+        "timing": 93,
+        "total_sleep": 57
+      },
+      "day": "2025-06-15",
+      "score": 72,
+      "timestamp": "2025-06-15T00:00:00+00:00"
+    },
+    {
+      "id": "eeb9a912-7f25-42da-9367-0b933c75bbe9",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 88,
+        "restfulness": 82,
+        "timing": 92,
+        "total_sleep": 84
+      },
+      "day": "2025-06-17",
+      "score": 86,
+      "timestamp": "2025-06-17T00:00:00+00:00"
+    },
+    {
+      "id": "3112e411-f56e-4276-afb3-9c08764b6761",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 100,
+        "restfulness": 81,
+        "timing": 76,
+        "total_sleep": 95
+      },
+      "day": "2025-06-18",
+      "score": 90,
+      "timestamp": "2025-06-18T00:00:00+00:00"
+    },
+    {
+      "id": "0f22985f-fb9e-4457-8ac4-9e64995e88e2",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 86,
+        "timing": 91,
+        "total_sleep": 90
+      },
+      "day": "2025-06-19",
+      "score": 90,
+      "timestamp": "2025-06-19T00:00:00+00:00"
+    },
+    {
+      "id": "0e29841c-9e90-482d-bb26-2d95a03f3d60",
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 78,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2025-06-20",
+      "score": 92,
+      "timestamp": "2025-06-20T00:00:00+00:00"
+    },
+    {
+      "id": "b9816f6c-0910-4301-b67b-de5d54e1b032",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 88,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 75,
+        "timing": 71,
+        "total_sleep": 98
+      },
+      "day": "2025-06-21",
+      "score": 90,
+      "timestamp": "2025-06-21T00:00:00+00:00"
+    },
+    {
+      "id": "c5506b43-05d2-4b9f-aee6-1ac777e92bcd",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 66,
+        "timing": 12,
+        "total_sleep": 80
+      },
+      "day": "2025-06-22",
+      "score": 75,
+      "timestamp": "2025-06-22T00:00:00+00:00"
+    },
+    {
+      "id": "d1b5377f-c67b-4239-890a-29a90deef18b",
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 60,
+        "restfulness": 72,
+        "timing": 11,
+        "total_sleep": 56
+      },
+      "day": "2025-06-23",
+      "score": 62,
+      "timestamp": "2025-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "d890afac-f6c6-42e4-8c26-3ec7706d4b19",
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 79,
+        "restfulness": 82,
+        "timing": 88,
+        "total_sleep": 92
+      },
+      "day": "2025-06-24",
+      "score": 89,
+      "timestamp": "2025-06-24T00:00:00+00:00"
+    },
+    {
+      "id": "19fcc786-62b9-44a9-823b-923a56ba0ce8",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 80,
+        "restfulness": 78,
+        "timing": 56,
+        "total_sleep": 81
+      },
+      "day": "2025-06-25",
+      "score": 80,
+      "timestamp": "2025-06-25T00:00:00+00:00"
+    },
+    {
+      "id": "177bd32f-dee4-4614-ad2c-db9e38ed3d19",
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 67,
+        "restfulness": 79,
+        "timing": 65,
+        "total_sleep": 60
+      },
+      "day": "2025-06-26",
+      "score": 73,
+      "timestamp": "2025-06-26T00:00:00+00:00"
+    },
+    {
+      "id": "9490a792-2020-425e-9537-af885b030e9c",
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 93,
+        "latency": 56,
+        "rem_sleep": 100,
+        "restfulness": 70,
+        "timing": 65,
+        "total_sleep": 81
+      },
+      "day": "2025-06-27",
+      "score": 79,
+      "timestamp": "2025-06-27T00:00:00+00:00"
+    },
+    {
+      "id": "2b14d4ba-c3be-424e-9afc-dd7c36842a07",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 84,
+        "restfulness": 83,
+        "timing": 72,
+        "total_sleep": 78
+      },
+      "day": "2025-06-28",
+      "score": 82,
+      "timestamp": "2025-06-28T00:00:00+00:00"
+    },
+    {
+      "id": "f3b5b91f-e87b-484a-8288-2dc12ab841f2",
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 79,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2025-06-29",
+      "score": 82,
+      "timestamp": "2025-06-29T00:00:00+00:00"
+    },
+    {
+      "id": "53bdcc7d-a1b8-4d68-b1c6-f8cf8ec0c251",
+      "contributors": {
+        "deep_sleep": 98,
+        "efficiency": 76,
+        "latency": 83,
+        "rem_sleep": 72,
+        "restfulness": 69,
+        "timing": 85,
+        "total_sleep": 84
+      },
+      "day": "2025-06-30",
+      "score": 81,
+      "timestamp": "2025-06-30T00:00:00+00:00"
+    },
+    {
+      "id": "954bed02-44ec-497b-9589-f3e993dbb08a",
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 86,
+        "restfulness": 74,
+        "timing": 99,
+        "total_sleep": 87
+      },
+      "day": "2025-07-01",
+      "score": 87,
+      "timestamp": "2025-07-01T00:00:00+00:00"
+    },
+    {
+      "id": "620a3b01-a410-406b-8f2f-0dd0c1ecd9e5",
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 79,
+        "latency": 64,
+        "rem_sleep": 91,
+        "restfulness": 61,
+        "timing": 63,
+        "total_sleep": 78
+      },
+      "day": "2025-07-02",
+      "score": 72,
+      "timestamp": "2025-07-02T00:00:00+00:00"
+    }
+  ],
+  "next_token": null
+}
