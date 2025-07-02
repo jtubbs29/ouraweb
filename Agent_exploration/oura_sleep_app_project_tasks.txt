@@ -3,7 +3,7 @@ OURA RING SLEEP & READINESS WEB APP - PROJECT TASKS
 
 PROJECT OVERVIEW:
 - React-based web app displaying Oura Ring sleep & readiness data
-- Mobile-friendly responsive design
+- Mobile-friendly responsive design1
 - GitHub Pages hosting with password protection
 - Local data storage (2024 Oura data)
 - Sleek, modern, minimalist design with color accents
