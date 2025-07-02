@@ -32,6 +32,17 @@ const Dashboard: React.FC = () => {
     lastUpdated 
   } = useOuraData(selectedDateRange);
 
+  // Debug: Log the data
+  console.log('🔍 Dashboard Debug:', {
+    sleepDataLength: filteredData.sleepData?.length || 0,
+    readinessDataLength: filteredData.readinessData?.length || 0,
+    activityDataLength: filteredData.activityData?.length || 0,
+    stats,
+    firstSleepItem: filteredData.sleepData?.[0],
+    firstReadinessItem: filteredData.readinessData?.[0],
+    firstActivityItem: filteredData.activityData?.[0]
+  });
+
   if (isLoading) {
     return (
       <div className="flex items-center justify-center h-96">
@@ -62,6 +73,9 @@ const Dashboard: React.FC = () => {
     filteredData.activityData
   );
 
+  // Debug: Log the summary
+  console.log('📊 Dashboard Summary:', summary);
+
   // Prepare chart data
   const sleepChartData = filteredData.sleepData.slice(-14).map(item => ({
     date: new Date(item.day).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
@@ -83,6 +97,40 @@ const Dashboard: React.FC = () => {
 
   return (
     <div className="p-6 max-w-7xl mx-auto">
+      {/* Debug Section */}
+      <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
+        <h3 className="text-lg font-semibold text-yellow-800 mb-2">🔍 Debug Information</h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
+          <div>
+            <strong>Sleep Data:</strong> {filteredData.sleepData?.length || 0} records
+            {filteredData.sleepData?.[0] && (
+              <div className="text-xs mt-1">
+                Latest: {filteredData.sleepData[0].day} (Score: {filteredData.sleepData[0].score})
+              </div>
+            )}
+          </div>
+          <div>
+            <strong>Readiness Data:</strong> {filteredData.readinessData?.length || 0} records
+            {filteredData.readinessData?.[0] && (
+              <div className="text-xs mt-1">
+                Latest: {filteredData.readinessData[0].day} (Score: {filteredData.readinessData[0].score})
+              </div>
+            )}
+          </div>
+          <div>
+            <strong>Activity Data:</strong> {filteredData.activityData?.length || 0} records
+            {filteredData.activityData?.[0] && (
+              <div className="text-xs mt-1">
+                Latest: {filteredData.activityData[0].day} (Score: {filteredData.activityData[0].score})
+              </div>
+            )}
+          </div>
+        </div>
+        <div className="mt-2 text-xs text-yellow-700">
+          Summary: Sleep={summary.sleepScore}, Readiness={summary.readinessScore}, Activity={summary.activityScore}
+        </div>
+      </div>
+
       {/* Header */}
       <motion.div
         initial={{ opacity: 0, y: -20 }}
