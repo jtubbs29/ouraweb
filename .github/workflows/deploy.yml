@@ -22,9 +22,11 @@ jobs:
 
     - name: Install dependencies
       run: npm ci
+      working-directory: OuraWebbApp
 
     - name: Build
       run: npm run build
+      working-directory: OuraWebbApp
       
     - name: Setup Pages
       uses: actions/configure-pages@v4
@@ -32,7 +34,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: './dist'
+        path: 'OuraWebbApp/dist'
         
     - name: Deploy to GitHub Pages
       id: deployment
